@@ -13,6 +13,7 @@ This repository contain various types of datasets (with source link) and the Pow
 ## Screenshots
 
 ![Global Superstore Overview](https://github.com/awmium/Data-Analysis/blob/e376a1c9fc7822a7f4c4def0dbfac0e0fea0e74f/Global%20Superstore%20Sales/Demo/Overview.PNG)
-![WHO Covid-19 Report](WHO Covid-19 Global/Dashboards Screenshot/WHO Covid-19.PNG)
-![Clustered HR Analysis](Clustered HR/Dashboards Screenshot/Home.PNG)
+![Clustered HR Analysis](https://github.com/awmium/Data-Analysis/blob/f6fca9be0a8e2e5d27c399b043df2145d3975ce5/Clustered%20HR/Dashboards%20Screenshot/Home.PNG)
+![WHO Covid-19 Report](https://github.com/awmium/Data-Analysis/blob/f6fca9be0a8e2e5d27c399b043df2145d3975ce5/WHO%20Covid-19%20Global/Dashboards%20Screenshot/WHO%20Covid-19.PNG)
+
 
