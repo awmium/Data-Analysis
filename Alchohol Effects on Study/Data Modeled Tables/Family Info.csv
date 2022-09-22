@@ -1,0 +1,495 @@
+Family Size,Parents Cohabitation,Mother's Education,Father's Education,Mother's Job,Fathers's Job,Family Relation,Guardian,FamilyInfoSK
+More than 3,Apart,Higher,Higher,At Home,Teacher,Good,Mother,1
+More than 3,Together,Primary,Primary,At Home,Other,Excellent,Father,2
+Less or Equal to 3,Together,Primary,Primary,At Home,Other,Good,Mother,3
+More than 3,Together,Higher,5th to 9th grade,Health,Services,Normal,Mother,4
+More than 3,Together,Secondary,Secondary,other,Other,Good,Father,5
+Less or Equal to 3,Together,Higher,Secondary,Services,Other,Excellent,Mother,6
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Good,Mother,7
+More than 3,Apart,Higher,Higher,other,Teacher,Good,Mother,8
+Less or Equal to 3,Apart,Secondary,5th to 9th grade,Services,Other,Good,Mother,9
+More than 3,Together,Secondary,Higher,other,Other,Excellent,Mother,10
+More than 3,Together,Higher,Higher,Teacher,Health,Normal,Mother,11
+More than 3,Together,5th to 9th grade,Primary,Services,Other,Excellent,Father,12
+Less or Equal to 3,Together,Higher,Higher,Health,Services,Good,Father,13
+More than 3,Together,Higher,Secondary,Teacher,Other,Excellent,Mother,14
+More than 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Good,Other,15
+More than 3,Together,Higher,Higher,Health,Other,Good,Mother,16
+More than 3,Together,Higher,Higher,Services,Services,Normal,Mother,17
+More than 3,Together,Secondary,Secondary,other,Other,Excellent,Mother,18
+More than 3,Together,Secondary,5th to 9th grade,Services,Services,Excellent,Mother,19
+Less or Equal to 3,Together,Higher,Secondary,Health,Other,Normal,Father,20
+More than 3,Together,Higher,Secondary,Teacher,Other,Good,Mother,21
+More than 3,Together,Higher,Higher,Health,Health,Excellent,Father,22
+Less or Equal to 3,Together,Higher,5th to 9th grade,Teacher,Other,Good,Mother,23
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Excellent,Mother,24
+More than 3,Together,5th to 9th grade,Higher,Services,Health,Good,Mother,25
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Very Bad,Mother,26
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Good,Mother,27
+More than 3,Together,Higher,5th to 9th grade,Health,Services,Bad,Mother,28
+Less or Equal to 3,Apart,Secondary,Higher,Services,Other,Excellent,Mother,29
+More than 3,Together,Higher,Higher,Teacher,Teacher,Good,Mother,30
+More than 3,Together,Higher,Higher,Health,Services,Excellent,Mother,31
+More than 3,Together,Higher,Higher,Services,Services,Good,Mother,32
+More than 3,Together,Higher,Secondary,Teacher,At Home,Good,Mother,33
+Less or Equal to 3,Together,Secondary,Secondary,other,Other,Excellent,Mother,34
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Excellent,Mother,35
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Normal,Father,36
+Less or Equal to 3,Together,Higher,Secondary,Teacher,Services,Excellent,Mother,37
+More than 3,Apart,Higher,Higher,other,Teacher,Bad,Mother,38
+More than 3,Together,Secondary,Higher,Services,Health,Good,Mother,39
+More than 3,Together,5th to 9th grade,5th to 9th grade,At Home,Other,Good,Mother,40
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Normal,Mother,41
+Less or Equal to 3,Together,Higher,Higher,Teacher,Other,Excellent,Other,42
+More than 3,Together,Higher,Higher,Services,Teacher,Good,Father,43
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Excellent,Father,44
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,At Home,Good,Father,45
+Less or Equal to 3,Apart,Higher,Secondary,other,Other,Excellent,Mother,46
+Less or Equal to 3,Apart,Secondary,Secondary,other,Services,Bad,Mother,47
+More than 3,Together,Higher,Secondary,Health,Services,Good,Mother,48
+More than 3,Together,Higher,5th to 9th grade,Teacher,Other,Good,Mother,49
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Good,Mother,50
+Less or Equal to 3,Together,Higher,5th to 9th grade,Health,Other,Good,Mother,51
+Less or Equal to 3,Apart,Higher,5th to 9th grade,Health,Health,Excellent,Father,52
+Less or Equal to 3,Apart,Secondary,Secondary,other,Other,Excellent,Mother,53
+More than 3,Apart,5th to 9th grade,Primary,other,Other,Excellent,Mother,54
+More than 3,Apart,Higher,Secondary,Services,Services,Good,Mother,55
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,At Home,Good,Father,56
+More than 3,Together,Higher,5th to 9th grade,Services,Other,Good,Mother,57
+More than 3,Together,Higher,Higher,Health,Teacher,Bad,Mother,58
+More than 3,Together,Primary,Primary,Services,Services,Excellent,Father,59
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,Services,Good,Father,60
+More than 3,Together,Higher,Secondary,Teacher,Health,Normal,Mother,61
+Less or Equal to 3,Together,Higher,Secondary,Services,Services,Good,Father,62
+More than 3,Apart,Higher,Higher,other,Services,Very Bad,Mother,63
+More than 3,Together,Secondary,Primary,Services,Other,Good,Mother,64
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Health,Services,Good,Mother,65
+Less or Equal to 3,Together,Secondary,Primary,other,Other,Good,Father,66
+More than 3,Together,Secondary,Primary,other,Other,Good,Father,67
+More than 3,Together,Higher,5th to 9th grade,other,Other,Normal,Mother,68
+More than 3,Together,Primary,Primary,other,Other,Normal,Mother,69
+More than 3,Together,Secondary,Primary,other,Other,Excellent,Mother,70
+More than 3,Together,Secondary,Secondary,other,Services,Good,Mother,71
+More than 3,Together,Higher,None,Teacher,Other,Normal,Mother,72
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Excellent,Mother,73
+More than 3,Together,5th to 9th grade,Primary,other,Other,Good,Mother,74
+More than 3,Together,Secondary,Higher,At Home,Other,Bad,Mother,75
+More than 3,Together,5th to 9th grade,Secondary,other,Services,Normal,Father,76
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Excellent,Mother,77
+Less or Equal to 3,Together,Secondary,5th to 9th grade,Services,Other,Good,Mother,78
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Excellent,Mother,79
+More than 3,Together,Primary,Primary,other,Other,Good,Father,80
+More than 3,Together,Higher,Higher,Services,Services,Good,Father,81
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,At Home,Other,Good,Mother,82
+More than 3,Together,Higher,5th to 9th grade,other,Other,Excellent,Mother,83
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Other,Good,Father,84
+Less or Equal to 3,Apart,Higher,Higher,Teacher,Health,Good,Mother,85
+More than 3,Together,Secondary,Secondary,other,Other,Good,Mother,86
+More than 3,Together,Higher,Secondary,Services,Other,Good,Mother,87
+Less or Equal to 3,Together,Secondary,Primary,other,Other,Normal,Father,88
+More than 3,Together,Higher,5th to 9th grade,Teacher,Services,Excellent,Mother,89
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Health,Good,Mother,90
+More than 3,Together,Primary,Primary,At Home,Other,Normal,Mother,91
+More than 3,Together,Higher,Secondary,Services,Other,Normal,Mother,92
+More than 3,Together,Higher,Higher,other,Other,Excellent,Mother,93
+More than 3,Together,Higher,Secondary,other,At Home,Excellent,Mother,94
+More than 3,Together,Higher,Higher,Services,Other,Excellent,Mother,95
+More than 3,Together,Secondary,5th to 9th grade,Services,Other,Good,Mother,96
+More than 3,Apart,Secondary,Higher,Services,Other,Excellent,Mother,97
+More than 3,Apart,Secondary,Secondary,other,Health,Good,Father,98
+More than 3,Together,Secondary,Secondary,Services,Other,Excellent,Father,99
+More than 3,Together,Higher,Higher,other,Other,Very Bad,Father,100
+Less or Equal to 3,Together,Higher,Higher,Health,Health,Excellent,Mother,101
+Less or Equal to 3,Apart,Higher,Higher,Teacher,Teacher,Excellent,Mother,102
+More than 3,Together,Secondary,Secondary,Services,Other,Good,Father,103
+More than 3,Together,5th to 9th grade,5th to 9th grade,At Home,Other,Normal,Mother,104
+Less or Equal to 3,Together,Higher,5th to 9th grade,Teacher,Other,Normal,Mother,105
+More than 3,Together,5th to 9th grade,Primary,Health,Services,Excellent,Mother,106
+More than 3,Together,Higher,Higher,Teacher,Teacher,Excellent,Father,107
+More than 3,Together,Higher,Higher,other,Teacher,Good,Father,108
+More than 3,Together,Secondary,Secondary,other,Services,Excellent,Father,109
+More than 3,Together,Primary,Secondary,other,Other,Excellent,Father,110
+More than 3,Together,Secondary,Higher,other,Other,Normal,Father,111
+More than 3,Together,Primary,5th to 9th grade,At Home,Services,Normal,Mother,112
+Less or Equal to 3,Together,5th to 9th grade,Higher,other,Health,Good,Father,113
+More than 3,Together,Higher,Higher,Health,Other,Normal,Mother,114
+More than 3,Together,Secondary,Higher,Services,Services,Excellent,Father,115
+Less or Equal to 3,Apart,Secondary,Higher,other,Other,Excellent,Mother,116
+More than 3,Together,None,Primary,At Home,Other,Normal,Other,117
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Other,Normal,Mother,118
+More than 3,Together,Higher,Higher,Teacher,Teacher,Normal,Mother,119
+More than 3,Together,Secondary,Higher,Services,Teacher,Good,Father,120
+More than 3,Together,Primary,Primary,At Home,Other,Good,Mother,121
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Normal,Father,122
+More than 3,Apart,Secondary,Higher,Services,Other,Normal,Father,123
+More than 3,Together,Secondary,Higher,At Home,Teacher,Excellent,Mother,124
+More than 3,Together,Higher,Higher,Services,At Home,Good,Mother,125
+More than 3,Together,Secondary,Higher,At Home,Other,Excellent,Mother,126
+More than 3,Apart,Secondary,Secondary,other,Other,Good,Other,127
+Less or Equal to 3,Together,Primary,Primary,Services,Other,Good,Mother,128
+More than 3,Together,Higher,Secondary,Teacher,Services,Bad,Father,129
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Bad,Father,130
+More than 3,Together,Higher,Higher,Teacher,Services,Good,Mother,131
+Less or Equal to 3,Together,Primary,Primary,At Home,At Home,Normal,Mother,132
+More than 3,Together,5th to 9th grade,Primary,other,Other,Excellent,Mother,133
+More than 3,Together,Primary,Primary,other,Services,Good,Father,134
+More than 3,Together,Secondary,5th to 9th grade,Health,Services,Normal,Father,135
+More than 3,Together,Primary,5th to 9th grade,At Home,Other,Good,Mother,136
+Less or Equal to 3,Apart,5th to 9th grade,Primary,Services,Other,Good,Mother,137
+Less or Equal to 3,Together,Primary,Primary,other,Other,Bad,Mother,138
+Less or Equal to 3,Together,5th to 9th grade,Primary,At Home,Other,Good,Mother,139
+More than 3,Together,Secondary,Secondary,Services,Services,Good,Other,140
+More than 3,Together,Secondary,5th to 9th grade,Services,At Home,Good,Mother,141
+More than 3,Together,Higher,Higher,other,Teacher,Good,Mother,142
+More than 3,Together,5th to 9th grade,Secondary,At Home,Services,Good,Mother,143
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,Other,Bad,Mother,144
+More than 3,Together,Primary,Primary,At Home,Other,Excellent,Mother,145
+More than 3,Together,Secondary,Secondary,other,Services,Good,Father,146
+Less or Equal to 3,Together,5th to 9th grade,Primary,At Home,Other,Normal,Mother,147
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Good,Mother,148
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,Other,Good,Mother,149
+More than 3,Together,Primary,Secondary,At Home,Services,Excellent,Father,150
+Less or Equal to 3,Together,Primary,Primary,other,Services,Excellent,Mother,151
+More than 3,Together,Secondary,5th to 9th grade,Services,Services,Good,Mother,152
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Good,Father,153
+More than 3,Together,Higher,5th to 9th grade,Health,Services,Good,Father,154
+More than 3,Together,Higher,Higher,Health,Health,Good,Mother,155
+More than 3,Together,Primary,None,other,Other,Good,Mother,156
+Less or Equal to 3,Together,Higher,Higher,Teacher,Other,Good,Mother,157
+More than 3,Together,Primary,Secondary,At Home,Services,Good,Mother,158
+Less or Equal to 3,Together,Secondary,Secondary,other,Other,Good,Mother,159
+Less or Equal to 3,Together,Higher,Secondary,Teacher,Other,Good,Mother,160
+More than 3,Together,Higher,5th to 9th grade,Teacher,Services,Good,Mother,161
+More than 3,Together,Higher,Secondary,other,Other,Excellent,Mother,162
+More than 3,Together,Higher,Secondary,Teacher,Other,Normal,Mother,163
+More than 3,Together,Secondary,Secondary,Services,Other,Good,Mother,164
+More than 3,Together,5th to 9th grade,Higher,Services,Services,Excellent,Father,165
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Very Bad,Mother,166
+More than 3,Together,Secondary,Secondary,Services,Services,Good,Mother,167
+More than 3,Together,Primary,5th to 9th grade,Services,Services,Normal,Mother,168
+Less or Equal to 3,Together,5th to 9th grade,Primary,other,Other,Good,Mother,169
+More than 3,Apart,Secondary,Secondary,Health,Other,Normal,Mother,170
+More than 3,Together,Primary,5th to 9th grade,At Home,Other,Normal,Mother,171
+More than 3,Together,5th to 9th grade,Secondary,Services,Services,Good,Mother,172
+More than 3,Together,Primary,Primary,At Home,Services,Excellent,Mother,173
+More than 3,Together,Primary,5th to 9th grade,At Home,Services,Good,Other,174
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Excellent,Father,175
+Less or Equal to 3,Together,5th to 9th grade,Higher,Services,Services,Good,Father,176
+More than 3,Together,Higher,Higher,Services,Teacher,Excellent,Mother,177
+Less or Equal to 3,Together,Secondary,Secondary,Teacher,Other,Normal,Father,178
+More than 3,Together,Higher,Higher,Services,Teacher,Good,Mother,179
+Less or Equal to 3,Together,Higher,Higher,Teacher,Teacher,Good,Mother,180
+More than 3,Together,Higher,Secondary,Health,Other,Good,Mother,181
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Good,Mother,182
+More than 3,Together,Primary,Primary,other,Other,Good,Mother,183
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Excellent,Mother,184
+More than 3,Together,Secondary,Higher,At Home,Services,Good,Mother,185
+More than 3,Apart,Secondary,Primary,Services,Other,Bad,Mother,186
+More than 3,Together,Higher,Secondary,Teacher,Other,Very Bad,Mother,187
+More than 3,Together,Secondary,Secondary,other,Other,Good,Other,188
+Less or Equal to 3,Together,Higher,Higher,Services,Other,Excellent,Mother,189
+More than 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Normal,Mother,190
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Other,Good,Mother,191
+Less or Equal to 3,Together,Secondary,5th to 9th grade,other,Other,Good,Mother,192
+More than 3,Together,Higher,Secondary,other,Other,Normal,Mother,193
+Less or Equal to 3,Together,Secondary,Secondary,Services,Health,Normal,Father,194
+More than 3,Together,5th to 9th grade,Secondary,At Home,Other,Normal,Father,195
+More than 3,Together,5th to 9th grade,5th to 9th grade,At Home,At Home,Good,Mother,196
+More than 3,Together,5th to 9th grade,Primary,At Home,Services,Good,Mother,197
+More than 3,Together,5th to 9th grade,Secondary,Services,Teacher,Bad,Mother,198
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Normal,Mother,199
+More than 3,Together,Higher,Higher,Teacher,Services,Excellent,Mother,200
+Less or Equal to 3,Together,5th to 9th grade,Secondary,Services,Services,Excellent,Father,201
+More than 3,Apart,5th to 9th grade,Primary,other,Other,Normal,Mother,202
+More than 3,Together,Higher,Higher,Health,Other,Good,Father,203
+Less or Equal to 3,Together,Primary,Primary,other,Other,Normal,Mother,204
+More than 3,Together,Secondary,5th to 9th grade,At Home,Other,Excellent,Mother,205
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Good,Father,206
+More than 3,Together,5th to 9th grade,Primary,At Home,Services,Bad,Mother,207
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Services,Excellent,Father,208
+Less or Equal to 3,Together,Higher,Secondary,Health,Other,Bad,Mother,209
+Less or Equal to 3,Apart,Higher,Higher,Teacher,Other,Normal,Mother,210
+Less or Equal to 3,Together,Higher,Secondary,Teacher,Other,Excellent,Mother,211
+More than 3,Together,Higher,Higher,Services,Services,Excellent,Mother,212
+More than 3,Together,5th to 9th grade,Primary,other,Other,Good,Other,213
+More than 3,Together,Secondary,Primary,Services,Services,Excellent,Mother,214
+Less or Equal to 3,Together,Secondary,Secondary,other,Services,Good,Mother,215
+More than 3,Together,None,5th to 9th grade,other,Other,Good,Mother,216
+More than 3,Together,Secondary,Secondary,At Home,Other,Excellent,Other,217
+More than 3,Together,5th to 9th grade,Primary,Services,Services,Normal,Mother,218
+More than 3,Together,5th to 9th grade,Primary,other,Other,Normal,Mother,219
+Less or Equal to 3,Together,Primary,Primary,Health,Other,Good,Mother,220
+Less or Equal to 3,Together,Higher,5th to 9th grade,Teacher,Services,Good,Mother,221
+Less or Equal to 3,Apart,Higher,Secondary,Services,At Home,Good,Mother,222
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Normal,Father,223
+More than 3,Together,Higher,Secondary,Services,Other,Normal,Father,224
+More than 3,Together,Secondary,Secondary,other,Other,Normal,Mother,225
+More than 3,Together,5th to 9th grade,5th to 9th grade,At Home,Services,Good,Mother,226
+Less or Equal to 3,Apart,Secondary,Higher,other,Other,Good,Mother,227
+More than 3,Together,Secondary,Primary,Services,Other,Excellent,Mother,228
+More than 3,Together,Higher,Higher,Teacher,Other,Good,Mother,229
+More than 3,Together,Higher,5th to 9th grade,Health,Other,Excellent,Father,230
+More than 3,Together,Secondary,Secondary,other,Services,Good,Other,231
+More than 3,Together,5th to 9th grade,Secondary,other,Services,Good,Father,232
+Less or Equal to 3,Together,Primary,Primary,other,Other,Good,Mother,233
+More than 3,Together,Primary,5th to 9th grade,At Home,At Home,Normal,Mother,234
+More than 3,Together,5th to 9th grade,Higher,At Home,Health,Good,Mother,235
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Other,Good,Mother,236
+More than 3,Apart,Secondary,5th to 9th grade,other,Services,Good,Mother,237
+More than 3,Together,Higher,Higher,Teacher,Services,Normal,Mother,238
+More than 3,Together,Higher,Higher,Health,Health,Bad,Father,239
+Less or Equal to 3,Together,Higher,Secondary,Teacher,Services,Good,Mother,240
+Less or Equal to 3,Apart,Higher,Primary,Services,Other,Good,Mother,241
+Less or Equal to 3,Apart,Secondary,5th to 9th grade,Teacher,Services,Good,Mother,242
+Less or Equal to 3,Together,Primary,Primary,At Home,Other,Excellent,Mother,243
+More than 3,Together,Primary,Primary,other,Other,Excellent,Mother,244
+More than 3,Together,Primary,Primary,Services,Teacher,Good,Mother,245
+More than 3,Together,5th to 9th grade,Primary,Services,Services,Good,Mother,246
+Less or Equal to 3,Together,5th to 9th grade,Primary,Services,At Home,Excellent,Mother,247
+Less or Equal to 3,Together,Secondary,Primary,Services,Other,Normal,Mother,248
+Less or Equal to 3,Together,Secondary,5th to 9th grade,Services,Other,Excellent,Mother,249
+More than 3,Together,Secondary,Secondary,Health,Other,Good,Mother,250
+More than 3,Together,Higher,Higher,Health,Other,Bad,Other,251
+Less or Equal to 3,Together,Higher,Secondary,other,Other,Good,Other,252
+More than 3,Together,Higher,Secondary,other,Other,Good,Father,253
+Less or Equal to 3,Together,Higher,Higher,Teacher,Teacher,Very Bad,Mother,254
+Less or Equal to 3,Apart,Higher,Higher,Health,Other,Good,Mother,255
+Less or Equal to 3,Together,Higher,Higher,other,Teacher,Good,Father,256
+More than 3,Together,Higher,5th to 9th grade,other,Other,Good,Mother,257
+More than 3,Together,Secondary,5th to 9th grade,Health,Health,Excellent,Father,258
+More than 3,Together,5th to 9th grade,Higher,Services,At Home,Good,Other,259
+More than 3,Apart,Secondary,5th to 9th grade,Services,Other,Excellent,Other,260
+More than 3,Together,Higher,Higher,Teacher,Services,Good,Other,261
+Less or Equal to 3,Together,Primary,Primary,At Home,Other,Good,Other,262
+Less or Equal to 3,Together,Primary,5th to 9th grade,Services,Services,Good,Other,263
+More than 3,Together,5th to 9th grade,Primary,At Home,Other,Normal,Other,264
+More than 3,Together,Primary,5th to 9th grade,other,Services,Good,Other,265
+Less or Equal to 3,Together,Secondary,5th to 9th grade,Services,Other,Good,Other,266
+More than 3,Together,Primary,Primary,At Home,Health,Good,Other,267
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Good,Other,268
+More than 3,Together,5th to 9th grade,Primary,Services,Other,Excellent,Mother,269
+More than 3,Together,Higher,Secondary,other,Other,Good,Mother,270
+More than 3,Together,Secondary,Higher,At Home,Services,Good,Father,271
+More than 3,Apart,Higher,Secondary,Services,Services,Excellent,Mother,272
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Normal,Mother,273
+More than 3,Together,Secondary,Primary,Services,Services,Normal,Father,274
+Less or Equal to 3,Together,None,5th to 9th grade,At Home,At Home,Normal,Father,275
+More than 3,Together,Higher,Higher,other,Other,Good,Mother,276
+More than 3,Together,5th to 9th grade,Higher,At Home,Other,Good,Father,277
+More than 3,Together,Secondary,Secondary,Services,Services,Excellent,Mother,278
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Good,Other,279
+More than 3,Together,Secondary,Higher,Services,Other,Good,Mother,280
+More than 3,Apart,Secondary,Primary,Services,At Home,Excellent,Other,281
+Less or Equal to 3,Together,Secondary,Secondary,Services,Services,Excellent,Mother,282
+More than 3,Apart,Secondary,5th to 9th grade,other,Other,Good,Mother,283
+More than 3,Together,5th to 9th grade,Primary,Services,Services,Good,Other,284
+More than 3,Together,Higher,Higher,Teacher,Services,Good,Father,285
+Less or Equal to 3,Together,Secondary,Higher,Services,Other,Good,Mother,286
+More than 3,Apart,5th to 9th grade,5th to 9th grade,At Home,At Home,Normal,Father,287
+More than 3,Together,5th to 9th grade,Secondary,At Home,Other,Good,Mother,288
+More than 3,Together,Secondary,5th to 9th grade,other,Services,Excellent,Mother,289
+More than 3,Together,Higher,Secondary,Teacher,Services,Excellent,Mother,290
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Bad,Mother,291
+More than 3,Together,Primary,Primary,other,Services,Excellent,Other,292
+Less or Equal to 3,Together,Primary,Secondary,At Home,Services,Good,Mother,293
+More than 3,Together,Primary,Primary,other,Other,Good,Other,294
+More than 3,Together,Secondary,Secondary,Services,Services,Excellent,Father,295
+Less or Equal to 3,Apart,Secondary,5th to 9th grade,Services,Other,Very Bad,Mother,296
+Less or Equal to 3,Together,Primary,Primary,other,Services,Normal,Father,297
+Less or Equal to 3,Together,Primary,Primary,At Home,Services,Excellent,Father,298
+Less or Equal to 3,Apart,Primary,Higher,At Home,Other,Good,Mother,299
+Less or Equal to 3,Together,Higher,Higher,At Home,At Home,Bad,Mother,300
+More than 3,Together,Primary,5th to 9th grade,other,Services,Normal,Father,301
+More than 3,Together,Primary,Secondary,At Home,Other,Normal,Mother,302
+Less or Equal to 3,Together,Higher,Higher,Teacher,Services,Good,Mother,303
+More than 3,Together,Primary,Primary,other,Services,Excellent,Mother,304
+More than 3,Together,5th to 9th grade,Secondary,At Home,Services,Excellent,Father,305
+More than 3,Together,Higher,Higher,other,Teacher,Normal,Father,306
+Less or Equal to 3,Together,Secondary,5th to 9th grade,Services,Services,Normal,Other,307
+Less or Equal to 3,Together,Primary,5th to 9th grade,At Home,Services,Good,Father,308
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,At Home,Normal,Mother,309
+More than 3,Together,Primary,5th to 9th grade,other,Other,Normal,Mother,310
+Less or Equal to 3,Together,Higher,Higher,other,Other,Excellent,Mother,311
+More than 3,Together,Higher,5th to 9th grade,Health,Other,Excellent,Other,312
+Less or Equal to 3,Together,Higher,Higher,Teacher,Services,Excellent,Mother,313
+More than 3,Together,Secondary,Primary,At Home,Other,Good,Mother,314
+More than 3,Together,Higher,Higher,Teacher,Teacher,Normal,Father,315
+More than 3,Together,Primary,Primary,other,Services,Good,Mother,316
+More than 3,Together,Higher,5th to 9th grade,other,Other,Excellent,Father,317
+More than 3,Together,5th to 9th grade,5th to 9th grade,At Home,Other,Excellent,Mother,318
+More than 3,Together,Higher,Higher,Teacher,At Home,Good,Mother,319
+More than 3,Together,5th to 9th grade,Secondary,Services,Other,Excellent,Mother,320
+Less or Equal to 3,Together,Secondary,Primary,Teacher,Services,Good,Mother,321
+More than 3,Together,Primary,Primary,other,Other,Very Bad,Mother,322
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,Services,Services,Excellent,Other,323
+Less or Equal to 3,Together,Secondary,Primary,Services,Services,Bad,Mother,324
+More than 3,Together,Primary,Primary,other,Other,Excellent,Other,325
+Less or Equal to 3,Together,Primary,Primary,other,At Home,Normal,Father,326
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Normal,Mother,327
+Less or Equal to 3,Apart,5th to 9th grade,Primary,other,Other,Normal,Mother,328
+More than 3,Together,5th to 9th grade,Primary,At Home,Other,Normal,Mother,329
+More than 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Excellent,Mother,330
+Less or Equal to 3,Together,Secondary,Primary,Services,Services,Normal,Mother,331
+More than 3,Apart,Secondary,5th to 9th grade,other,Services,Good,Other,332
+More than 3,Together,Primary,Primary,other,Services,Normal,Mother,333
+More than 3,Apart,Secondary,Secondary,Services,Services,Very Bad,Mother,334
+Less or Equal to 3,Apart,5th to 9th grade,Primary,At Home,Other,Good,Mother,335
+More than 3,Together,Primary,5th to 9th grade,At Home,Services,Bad,Father,336
+Less or Equal to 3,Together,Primary,5th to 9th grade,Health,Services,Good,Mother,337
+More than 3,Apart,Higher,Primary,other,Other,Excellent,Mother,338
+Less or Equal to 3,Apart,5th to 9th grade,Higher,Services,Other,Good,Mother,339
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,At Home,Services,Excellent,Mother,340
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,At Home,Good,Other,341
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Excellent,Father,342
+Less or Equal to 3,Together,Primary,Primary,At Home,At Home,Good,Mother,343
+More than 3,Together,Primary,5th to 9th grade,other,Other,Excellent,Mother,344
+Less or Equal to 3,Apart,Primary,Higher,other,Other,Excellent,Other,345
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Normal,Mother,346
+Less or Equal to 3,Apart,Higher,5th to 9th grade,Teacher,Other,Good,Mother,347
+Less or Equal to 3,Apart,5th to 9th grade,Primary,other,Other,Good,Mother,348
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Good,Mother,349
+Less or Equal to 3,Together,5th to 9th grade,Primary,Services,Other,Good,Mother,350
+Less or Equal to 3,Together,Primary,Primary,other,At Home,Good,Mother,351
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Services,Excellent,Mother,352
+More than 3,Together,5th to 9th grade,Primary,other,Other,Very Bad,Other,353
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Services,Good,Father,354
+More than 3,Together,Secondary,5th to 9th grade,Services,Services,Normal,Father,355
+More than 3,Together,Primary,5th to 9th grade,At Home,Other,Normal,Other,356
+Less or Equal to 3,Together,5th to 9th grade,Primary,At Home,Services,Good,Mother,357
+More than 3,Together,Primary,Higher,other,Teacher,Normal,Mother,358
+More than 3,Together,5th to 9th grade,Secondary,other,Other,Good,Father,359
+Less or Equal to 3,Together,Higher,Secondary,Health,Services,Normal,Mother,360
+More than 3,Together,Secondary,Secondary,At Home,Other,Good,Father,361
+More than 3,Together,Higher,5th to 9th grade,Health,Other,Excellent,Mother,362
+More than 3,Together,Higher,Higher,Health,Health,Excellent,Mother,363
+Less or Equal to 3,Apart,Secondary,Secondary,Services,Other,Excellent,Mother,364
+Less or Equal to 3,Together,5th to 9th grade,Primary,other,Other,Good,Father,365
+Less or Equal to 3,Together,Higher,Higher,other,Other,Good,Father,366
+More than 3,Together,Primary,Primary,other,Other,Very Bad,Other,367
+Less or Equal to 3,Apart,Primary,Primary,other,Other,Excellent,Other,368
+More than 3,Together,Secondary,Secondary,At Home,Other,Good,Mother,369
+More than 3,Together,Secondary,5th to 9th grade,At Home,Services,Excellent,Other,370
+More than 3,Together,5th to 9th grade,Primary,Services,Other,Good,Mother,371
+Less or Equal to 3,Apart,5th to 9th grade,Secondary,At Home,Other,Bad,Other,372
+More than 3,Together,Secondary,Primary,other,At Home,Good,Mother,373
+Less or Equal to 3,Together,Higher,Higher,other,Other,Normal,Other,374
+Less or Equal to 3,Apart,Secondary,Higher,other,Other,Good,Other,375
+Less or Equal to 3,Together,Primary,Primary,At Home,Other,Excellent,Other,376
+More than 3,Together,Primary,Primary,other,Other,Normal,Other,377
+More than 3,Together,Higher,Higher,Teacher,Other,Normal,Other,378
+Less or Equal to 3,Apart,Secondary,5th to 9th grade,other,Other,Good,Mother,379
+More than 3,Together,Secondary,5th to 9th grade,At Home,Other,Good,Father,380
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,Services,Other,Good,Mother,381
+More than 3,Together,Primary,None,other,Other,Excellent,Mother,382
+More than 3,Together,Secondary,5th to 9th grade,Services,Other,Normal,Mother,383
+More than 3,Together,Primary,Secondary,At Home,Other,Good,Father,384
+More than 3,Together,Primary,Primary,At Home,Services,Good,Mother,385
+More than 3,Together,Secondary,Secondary,At Home,Other,Excellent,Mother,386
+Less or Equal to 3,Together,5th to 9th grade,Primary,At Home,Other,Very Bad,Mother,387
+Less or Equal to 3,Apart,Higher,Higher,At Home,Other,Excellent,Mother,388
+More than 3,Apart,Primary,5th to 9th grade,other,Other,Good,Mother,389
+More than 3,Together,Primary,Primary,other,Other,Excellent,Father,390
+More than 3,Together,Higher,Higher,Teacher,Other,Very Bad,Mother,391
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,At Home,Other,Very Bad,Mother,392
+Less or Equal to 3,Together,Primary,Primary,other,Services,Good,Mother,393
+More than 3,Together,None,5th to 9th grade,other,Other,Normal,Mother,394
+Less or Equal to 3,Together,Higher,Primary,Health,Services,Excellent,Father,395
+More than 3,Together,Secondary,Higher,other,Health,Normal,Mother,396
+Less or Equal to 3,Together,Secondary,Secondary,At Home,At Home,Excellent,Father,397
+More than 3,Together,Primary,5th to 9th grade,other,Services,Excellent,Mother,398
+More than 3,Together,5th to 9th grade,Secondary,other,Services,Good,Mother,399
+More than 3,Together,Primary,5th to 9th grade,other,Other,Good,Father,400
+More than 3,Together,Primary,5th to 9th grade,other,Services,Very Bad,Mother,401
+More than 3,Together,5th to 9th grade,Primary,At Home,Other,Good,Mother,402
+Less or Equal to 3,Together,Primary,5th to 9th grade,At Home,Services,Excellent,Mother,403
+More than 3,Together,Primary,Primary,At Home,Other,Good,Father,404
+More than 3,Together,Primary,Primary,At Home,At Home,Good,Father,405
+More than 3,Together,Primary,Primary,At Home,Other,Normal,Father,406
+More than 3,Together,Primary,5th to 9th grade,other,Other,Normal,Father,407
+More than 3,Together,Secondary,Primary,other,Services,Normal,Mother,408
+More than 3,Together,5th to 9th grade,5th to 9th grade,Health,Other,Good,Mother,409
+Less or Equal to 3,Together,5th to 9th grade,Primary,At Home,Services,Bad,Mother,410
+Less or Equal to 3,Together,Primary,Secondary,At Home,Other,Good,Father,411
+Less or Equal to 3,Together,5th to 9th grade,Primary,other,Other,Excellent,Mother,412
+More than 3,Together,Secondary,Secondary,Services,Services,Good,Father,413
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,At Home,Good,Mother,414
+More than 3,Together,5th to 9th grade,Secondary,At Home,Services,Good,Other,415
+More than 3,Together,5th to 9th grade,Primary,At Home,Other,Excellent,Mother,416
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Normal,Father,417
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Good,Mother,418
+Less or Equal to 3,Apart,Secondary,5th to 9th grade,other,Other,Normal,Other,419
+More than 3,Together,Primary,Primary,At Home,At Home,Normal,Mother,420
+More than 3,Apart,5th to 9th grade,5th to 9th grade,Health,Other,Normal,Mother,421
+More than 3,Together,None,Primary,other,At Home,Bad,Father,422
+Less or Equal to 3,Together,Primary,5th to 9th grade,At Home,Other,Good,Mother,423
+Less or Equal to 3,Together,Primary,Primary,Services,Services,Good,Mother,424
+More than 3,Together,Secondary,Secondary,Services,At Home,Excellent,Mother,425
+More than 3,Together,5th to 9th grade,Primary,other,Services,Excellent,Mother,426
+More than 3,Together,Primary,5th to 9th grade,other,Other,Excellent,Father,427
+Less or Equal to 3,Together,Higher,Secondary,other,Other,Good,Father,428
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Very Bad,Mother,429
+More than 3,Together,Primary,Primary,other,Other,Bad,Other,430
+More than 3,Together,Secondary,Secondary,At Home,Services,Normal,Mother,431
+Less or Equal to 3,Together,Primary,Primary,other,Services,Good,Father,432
+Less or Equal to 3,Together,Primary,Primary,At Home,Other,Excellent,Father,433
+More than 3,Apart,Primary,None,other,Other,Good,Mother,434
+More than 3,Together,Secondary,Primary,other,Other,Normal,Mother,435
+More than 3,Together,Secondary,5th to 9th grade,Services,At Home,Normal,Mother,436
+Less or Equal to 3,Together,Primary,Primary,other,At Home,Bad,Mother,437
+More than 3,Together,Higher,Higher,Health,Teacher,Good,Father,438
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,Other,Excellent,Mother,439
+More than 3,Apart,5th to 9th grade,Higher,other,Services,Bad,Father,440
+More than 3,Together,5th to 9th grade,Secondary,At Home,Services,Normal,Mother,441
+Less or Equal to 3,Together,Higher,Higher,At Home,Health,Excellent,Mother,442
+Less or Equal to 3,Together,Secondary,Higher,At Home,Other,Good,Mother,443
+Less or Equal to 3,Together,Higher,Higher,other,Services,Good,Mother,444
+More than 3,Together,Higher,Primary,other,Other,Good,Mother,445
+Less or Equal to 3,Together,Higher,Higher,Services,Services,Excellent,Father,446
+More than 3,Together,5th to 9th grade,Primary,Health,Services,Good,Mother,447
+Less or Equal to 3,Together,5th to 9th grade,Primary,other,Services,Normal,Mother,448
+Less or Equal to 3,Together,Higher,Higher,Teacher,Health,Good,Father,449
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,Other,Excellent,Mother,450
+Less or Equal to 3,Apart,5th to 9th grade,Primary,Services,Services,Good,Mother,451
+Less or Equal to 3,Together,Higher,Primary,other,Other,Very Bad,Mother,452
+More than 3,Together,Secondary,5th to 9th grade,At Home,Other,Good,Mother,453
+More than 3,Together,Higher,Higher,Health,Other,Normal,Father,454
+Less or Equal to 3,Together,Primary,Secondary,other,Other,Excellent,Father,455
+More than 3,Together,Secondary,Higher,Services,Other,Excellent,Mother,456
+Less or Equal to 3,Together,Higher,Primary,other,At Home,Good,Father,457
+More than 3,Apart,Primary,Primary,At Home,At Home,Good,Mother,458
+Less or Equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,Services,Good,Father,459
+More than 3,Together,Secondary,5th to 9th grade,other,Other,Good,Father,460
+Less or Equal to 3,Apart,Primary,None,other,Other,Good,Mother,461
+More than 3,Together,Primary,Primary,At Home,At Home,Normal,Father,462
+Less or Equal to 3,Together,Primary,5th to 9th grade,other,At Home,Good,Mother,463
+More than 3,Together,Primary,None,At Home,At Home,Good,Other,464
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,other,Services,Excellent,Father,465
+More than 3,Together,5th to 9th grade,5th to 9th grade,other,Other,Very Bad,Mother,466
+More than 3,Together,Secondary,5th to 9th grade,Services,Other,Good,Father,467
+More than 3,Together,Primary,Primary,Services,Other,Excellent,Other,468
+More than 3,Together,Secondary,5th to 9th grade,Services,Other,Bad,Mother,469
+More than 3,Together,Secondary,5th to 9th grade,At Home,Services,Normal,Mother,470
+More than 3,Together,Secondary,Secondary,At Home,At Home,Good,Mother,471
+More than 3,Together,5th to 9th grade,Primary,At Home,Other,Good,Other,472
+More than 3,Apart,Secondary,5th to 9th grade,Services,At Home,Bad,Mother,473
+More than 3,Together,Primary,Primary,other,At Home,Good,Mother,474
+More than 3,Apart,Primary,5th to 9th grade,At Home,Other,Good,Mother,475
+Less or Equal to 3,Apart,Primary,Primary,At Home,Other,Very Bad,Mother,476
+More than 3,Together,None,None,At Home,Other,Good,Mother,477
+Less or Equal to 3,Apart,Secondary,Primary,other,At Home,Good,Other,478
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Bad,Mother,479
+More than 3,Together,Higher,Primary,Health,At Home,Normal,Mother,480
+Less or Equal to 3,Together,Primary,5th to 9th grade,At Home,Other,Excellent,Father,481
+More than 3,Together,5th to 9th grade,5th to 9th grade,Services,At Home,Good,Father,482
+Less or Equal to 3,Apart,Primary,5th to 9th grade,At Home,Other,Good,Mother,483
+Less or Equal to 3,Together,Primary,5th to 9th grade,At Home,Services,Good,Mother,484
+More than 3,Together,Higher,Higher,At Home,Services,Bad,Mother,485
+Less or Equal to 3,Together,5th to 9th grade,5th to 9th grade,Services,Services,Excellent,Father,486
+Less or Equal to 3,Apart,Higher,5th to 9th grade,Teacher,Other,Excellent,Mother,487
+More than 3,Together,Primary,Primary,At Home,Services,Excellent,Father,488
+More than 3,Together,Higher,5th to 9th grade,Teacher,Other,Good,Father,489
+Less or Equal to 3,Apart,5th to 9th grade,Primary,Services,Other,Excellent,Mother,490
+Less or Equal to 3,Apart,Primary,Primary,At Home,Services,Excellent,Mother,491
+More than 3,Together,Primary,5th to 9th grade,At Home,At Home,Good,Father,492
+More than 3,Apart,Primary,Primary,At Home,At Home,Normal,Other,493
+More than 3,Together,Primary,Primary,At Home,Other,Good,Other,494

@@ -1,0 +1,1045 @@
+School,Sex,Age,Area Type,Reason,Study Time,Failed,Workday Alcohol Consumption,Weekly Alcohol Consumption,Health Status,# of Class Absent,FamilyInfoSK,StudentInfoSK
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,6,1,1
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,4,2,2
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,3,Low,Normal,Normal,10,3,3
+Gabriel Pereira,Female,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,2,4,4
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very High,4,5,5
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,10,6,6
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,0,7,7
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,6,8,8
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,0,9,9
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,10,10
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Low,0,11,11
+Gabriel Pereira,Female,15,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,4,12,12
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Very High,2,13,13
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,2,14,14
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,0,15,15
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Low,4,16,7
+Gabriel Pereira,Female,16,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,Low,6,17,16
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,4,18,17
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,3,Low,High,Very High,16,19,18
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,Very High,4,20,19
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,21,20
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,0,Very Low,Very Low,Very High,0,22,21
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Very High,2,23,22
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Low,High,Very High,0,24,23
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,25,24
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,2,Very Low,Normal,Very High,14,26,25
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very High,2,27,9
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,0,Low,High,Very Low,4,28,26
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,4,29,27
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very High,Very High,Very High,16,30,28
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Normal,High,Very High,0,31,29
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,0,32,30
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,33,31
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,0,34,32
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,0,35,33
+Gabriel Pereira,Female,15,Urban,Other,Less than 2 hours,0,Very Low,Very Low,Very High,0,36,34
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,High,2,37,35
+Gabriel Pereira,Male,16,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very High,7,38,36
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,39,24
+Gabriel Pereira,Female,15,Rural,School Reputation,Less than 2 hours,0,Very Low,Very Low,Low,8,40,37
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,1,Very Low,Low,Normal,25,41,38
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Low,High,Very High,8,42,39
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,43,40
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very Low,0,44,41
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,1,Low,Low,Very High,14,45,27
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,8,46,42
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Normal,12,47,43
+Gabriel Pereira,Male,16,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Low,4,48,12
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Low,Low,Very High,2,49,44
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,1,Very Low,Very Low,Normal,2,43,45
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Low,Normal,High,2,50,11
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Very High,2,51,11
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,1,Normal,High,Very High,6,52,46
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Low,Normal,Very High,0,17,47
+Gabriel Pereira,Female,15,Urban,Other,Less than 2 hours,0,High,High,Very Low,6,53,48
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Low,8,54,49
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,55,50
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,4,11,51
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,2,56,52
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,57,53
+Gabriel Pereira,Female,16,Rural,Other,2 to 5 hours,0,Low,Normal,High,6,58,54
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very High,Very High,Very High,6,59,55
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,4,60,56
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Low,High,High,2,61,57
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Low,High,Low,0,62,58
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,2,37,35
+Gabriel Pereira,Male,15,Urban,School Reputation,More than 10 hours,0,Very High,Very High,Normal,4,63,38
+Gabriel Pereira,Female,16,Urban,Course Preference,More than 10 hours,0,Very Low,Low,Very High,4,64,59
+Gabriel Pereira,Female,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Normal,High,2,65,60
+Gabriel Pereira,Female,15,Rural,School Reputation,More than 10 hours,0,Low,Normal,Normal,12,66,61
+Gabriel Pereira,Male,16,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Very High,0,67,62
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,0,68,63
+Gabriel Pereira,Female,15,Rural,School Reputation,2 to 5 hours,2,Low,High,Very High,2,69,64
+Gabriel Pereira,Male,16,Urban,School Reputation,Less than 2 hours,0,Low,Low,Very High,2,70,65
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Low,High,Very High,54,71,66
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Very High,6,21,13
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Very Low,8,72,35
+Gabriel Pereira,Female,16,Urban,School Reputation,More than 10 hours,0,Very Low,Normal,Normal,0,73,67
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,3,Very Low,Very Low,Normal,2,74,68
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,12,75,69
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Normal,2,76,70
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Low,Very High,4,77,71
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,10,78,72
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,High,4,79,13
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Low,Normal,High,2,80,32
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,2,Low,Normal,Very High,6,81,73
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Low,4,82,74
+Gabriel Pereira,Female,15,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Very Low,4,83,40
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,1,Very Low,Very Low,Normal,12,84,75
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Normal,Very High,Very High,18,85,76
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Normal,High,0,86,77
+Gabriel Pereira,Female,15,Urban,School Reputation,Less than 2 hours,0,Very Low,Normal,Very Low,4,87,78
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Low,4,88,79
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,0,89,13
+Gabriel Pereira,Male,15,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,6,90,80
+Gabriel Pereira,Female,15,Rural,Close to Home,More than 10 hours,1,Very Low,Very Low,Very Low,2,91,81
+Gabriel Pereira,Male,16,Rural,School Reputation,Less than 2 hours,0,Very Low,Very Low,High,2,92,82
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,74,83
+Gabriel Pereira,Female,16,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,Very Low,6,93,84
+Gabriel Pereira,Female,16,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,0,94,85
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Very High,Very High,High,14,32,86
+Gabriel Pereira,Male,16,Urban,Other,5 to 10 hours,0,Very Low,Very Low,High,0,43,36
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,4,95,87
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Low,26,96,85
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,97,88
+Gabriel Pereira,Female,15,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,10,98,79
+Gabriel Pereira,Female,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,8,73,89
+Gabriel Pereira,Male,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,2,99,40
+Gabriel Pereira,Male,15,Rural,Close to Home,More than 10 hours,0,Normal,Very High,Very Low,6,100,90
+Gabriel Pereira,Female,16,Urban,Other,5 to 10 hours,0,Very Low,Very Low,High,4,101,28
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,6,102,91
+Gabriel Pereira,Female,16,Rural,School Reputation,5 to 10 hours,1,Very Low,Very Low,Low,0,103,92
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,1,Very Low,Very Low,Very High,6,104,92
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,10,105,93
+Gabriel Pereira,Male,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,8,106,94
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,2,107,23
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Low,2,108,95
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,0,109,96
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,1,Very Low,High,Very High,20,110,97
+Gabriel Pereira,Male,15,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,High,6,111,69
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,2,112,98
+Gabriel Pereira,Male,15,Urban,Close to Home,More than 10 hours,0,Very Low,Low,Very High,6,44,99
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,2,113,4
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Very High,18,114,23
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,73,73
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Normal,Low,Very High,0,115,100
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,0,116,101
+Gabriel Pereira,Female,19,Urban,Course Preference,2 to 5 hours,3,Very Low,Very Low,Very High,2,117,102
+Gabriel Pereira,Male,18,Rural,School Reputation,Less than 2 hours,2,Very Low,Low,High,0,118,40
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,Very High,High,8,119,78
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,2,Low,Low,Very High,0,120,103
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,High,0,121,38
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Very High,12,122,104
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Very High,16,123,105
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,124,106
+Gabriel Pereira,Female,15,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,0,125,107
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Low,High,Very High,0,126,108
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,2,Very Low,Very Low,Very High,0,127,109
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,1,Very Low,Normal,Very High,0,128,110
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,0,30,111
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,0,129,112
+Gabriel Pereira,Male,16,Urban,School Reputation,Less than 2 hours,2,Low,Low,Low,8,130,40
+Gabriel Pereira,Female,15,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,131,113
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Normal,Normal,Very Low,2,132,7
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,3,Very Low,Low,Very High,0,133,114
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,0,134,21
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,3,Very Low,Very Low,Normal,0,135,115
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,136,116
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Low,Very Low,Very High,0,119,117
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,3,Low,Very High,Very High,0,137,118
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,3,Low,Very High,High,0,138,119
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Normal,Very High,Very High,6,139,120
+Gabriel Pereira,Female,15,Rural,School Reputation,5 to 10 hours,2,Low,Normal,Normal,8,140,121
+Gabriel Pereira,Male,19,Urban,Close to Home,Less than 2 hours,3,Very Low,Very Low,High,0,141,122
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,0,142,123
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,2,143,124
+Gabriel Pereira,Male,17,Rural,School Reputation,Less than 2 hours,0,Normal,Normal,Very High,8,144,125
+Gabriel Pereira,Female,18,Rural,Course Preference,Less than 2 hours,3,Very Low,Very High,High,6,145,126
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Very Low,Low,Normal,2,40,127
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,1,High,High,Very High,4,146,128
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,2,Low,Low,Very High,0,147,129
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,2,Very Low,High,Normal,6,148,130
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Low,High,Very High,0,149,54
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Low,2,150,131
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,3,Very Low,Very High,Very High,0,151,132
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Very Low,Very Low,Low,16,152,133
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Low,High,High,4,153,134
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,0,154,67
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,0,73,135
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Normal,0,155,136
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,2,Low,High,Low,0,111,137
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Normal,2,156,138
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very High,0,157,88
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,3,Very Low,Very Low,Normal,0,158,139
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,4,159,140
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,High,High,High,4,160,88
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,High,Very High,2,118,141
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,High,High,4,5,84
+Gabriel Pereira,Male,16,Rural,Other,Less than 2 hours,0,Normal,High,Normal,10,161,107
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,4,162,142
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Normal,10,163,143
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Normal,2,164,144
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Very High,0,165,145
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Very Low,56,34,107
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very Low,14,166,9
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,Low,Normal,High,12,167,146
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Very Low,Low,Normal,2,168,147
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,0,169,144
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Normal,6,170,148
+Gabriel Pereira,Male,17,Rural,Close to Home,2 to 5 hours,0,Very Low,Very High,Normal,4,171,76
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,10,172,63
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,0,173,40
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,High,Very High,Very High,12,174,141
+Gabriel Pereira,Male,16,Rural,School Reputation,Less than 2 hours,0,Normal,High,Very High,8,167,111
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Normal,0,175,63
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,176,149
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very High,4,177,53
+Gabriel Pereira,Male,16,Rural,Close to Home,Less than 2 hours,0,Normal,Very High,Normal,8,178,150
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,1,Low,Normal,Low,24,179,151
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,0,180,152
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very High,Low,2,181,153
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,High,6,182,154
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Very Low,4,183,155
+Gabriel Pereira,Female,17,Rural,School Reputation,Less than 2 hours,0,Very Low,Low,Normal,18,73,115
+Gabriel Pereira,Female,16,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Very High,6,184,156
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,1,Normal,High,Very High,28,185,157
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,3,Low,Low,High,5,186,11
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Very Low,10,187,138
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Very High,6,121,5
+Gabriel Pereira,Female,17,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,6,21,158
+Gabriel Pereira,Female,19,Urban,School Reputation,More than 10 hours,0,Very Low,Low,Normal,10,188,13
+Gabriel Pereira,Male,17,Urban,Close to Home,2 to 5 hours,0,High,Very High,Normal,13,189,159
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,0,190,47
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,1,Low,High,Very High,15,191,88
+Gabriel Pereira,Female,17,Rural,Other,Less than 2 hours,0,Very Low,Low,Normal,12,189,160
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very Low,2,192,72
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,2,Low,High,Very Low,22,193,161
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,1,Low,High,High,13,194,26
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Normal,3,195,44
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,4,196,13
+Gabriel Pereira,Female,17,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,2,197,162
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,1,Very Low,Very Low,Very High,0,121,163
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Normal,2,198,164
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very High,Very High,High,0,199,11
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,0,200,32
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,1,Very Low,Very Low,High,16,70,107
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Normal,10,35,84
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Normal,2,201,165
+Gabriel Pereira,Male,18,Urban,Course Preference,2 to 5 hours,0,High,Very High,Normal,14,139,166
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,Normal,10,202,142
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,14,20,142
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,4,153,167
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Low,14,30,168
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Low,High,Very Low,2,203,169
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,18,204,21
+Gabriel Pereira,Male,16,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Low,10,205,107
+Gabriel Pereira,Male,17,Urban,Close to Home,2 to 5 hours,0,Very High,Very High,High,4,206,170
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,20,74,15
+Gabriel Pereira,Female,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,207,171
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,1,Normal,Very High,Low,0,208,172
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,Very Low,High,Very High,14,209,173
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Low,Normal,High,2,210,11
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,0,211,137
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,0,212,111
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,0,213,174
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,6,74,63
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Low,4,175,175
+Gabriel Pereira,Male,20+,Urban,Other,Less than 2 hours,3,Very High,Very High,Very Low,16,214,176
+Gabriel Pereira,Male,18,Rural,Course Preference,2 to 5 hours,1,Very Low,Normal,Very High,8,215,177
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Low,High,Very High,0,216,116
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,1,Low,High,Very High,0,96,178
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Low,6,217,179
+Gabriel Pereira,Male,18,Urban,Other,Less than 2 hours,1,Low,Very High,Very High,4,218,180
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Normal,0,219,181
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,0,Low,High,Very High,0,74,61
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,1,Very Low,Low,Very High,2,220,23
+Gabriel Pereira,Female,17,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,6,221,16
+Gabriel Pereira,Male,19,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,12,222,182
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,High,8,133,97
+Gabriel Pereira,Female,17,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Low,0,223,183
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,Low,21,224,184
+Gabriel Pereira,Male,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,21,116
+Gabriel Pereira,Male,18,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,1,35,181
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,High,4,225,185
+Gabriel Pereira,Female,18,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,0,226,147
+Gabriel Pereira,Male,18,Rural,School Reputation,2 to 5 hours,0,Normal,High,Very Low,13,227,186
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,Normal,High,Very High,2,228,187
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,0,Low,Low,High,8,229,150
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very High,10,230,28
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,0,74,119
+Gabriel Pereira,Female,19,Urban,Close to Home,2 to 5 hours,2,Normal,Normal,Very High,15,231,188
+Gabriel Pereira,Female,18,Urban,School Reputation,More than 10 hours,0,Very Low,Normal,Low,4,232,189
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,2,233,190
+Gabriel Pereira,Male,17,Rural,Close to Home,2 to 5 hours,0,Low,Low,Very Low,2,234,191
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,2,235,77
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Low,Normal,Very High,6,236,192
+Gabriel Pereira,Female,18,Rural,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,75,237,193
+Gabriel Pereira,Male,18,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Normal,22,238,169
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,1,Very Low,Very Low,High,15,239,58
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very Low,8,240,16
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Low,High,Very High,30,241,194
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,1,Normal,High,Normal,19,242,7
+Gabriel Pereira,Female,18,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,1,243,195
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,4,244,196
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,4,73,197
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,High,2,80,165
+Gabriel Pereira,Female,18,Urban,Other,5 to 10 hours,0,Very Low,Low,Low,5,196,11
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Normal,6,245,11
+Gabriel Pereira,Male,18,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Low,6,246,169
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Low,9,102,143
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Very High,11,49,138
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,Normal,0,48,9
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,1,Very Low,Very Low,Very High,12,247,198
+Gabriel Pereira,Female,17,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,6,248,199
+Gabriel Pereira,Male,18,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,8,249,6
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,Very High,4,250,14
+Gabriel Pereira,Female,19,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Low,0,251,150
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Low,10,252,161
+Gabriel Pereira,Female,18,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,0,253,11
+Gabriel Pereira,Male,18,Urban,Close to Home,Less than 2 hours,0,Low,Low,Very Low,5,254,136
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,14,255,200
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Low,Low,Very High,0,256,201
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Normal,0,257,11
+Gabriel Pereira,Female,17,Urban,School Reputation,More than 10 hours,0,Very Low,Low,Very High,0,258,202
+Gabriel Pereira,Male,19,Urban,Close to Home,2 to 5 hours,1,Very Low,Very Low,Normal,20,188,203
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,1,Very Low,Very Low,Normal,8,259,143
+Gabriel Pereira,Male,20,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,0,260,204
+Gabriel Pereira,Male,19,Urban,School Reputation,Less than 2 hours,1,Very Low,Very Low,High,38,261,205
+Gabriel Pereira,Male,19,Rural,School Reputation,2 to 5 hours,1,Very Low,Low,Very High,0,146,206
+Gabriel Pereira,Female,19,Urban,School Reputation,2 to 5 hours,1,Very Low,Normal,Normal,18,262,207
+Gabriel Pereira,Female,19,Urban,Close to Home,2 to 5 hours,1,Low,Low,Normal,0,263,208
+Gabriel Pereira,Female,19,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Low,20,264,209
+Gabriel Pereira,Male,19,Urban,Course Preference,2 to 5 hours,1,Low,Low,High,3,265,210
+Gabriel Pereira,Female,19,Urban,School Reputation,2 to 5 hours,1,Very Low,Low,Very Low,22,266,211
+Gabriel Pereira,Female,19,Urban,Close to Home,5 to 10 hours,2,Very Low,Very Low,Normal,14,267,212
+Gabriel Pereira,Female,19,Rural,School Reputation,5 to 10 hours,1,Very Low,Very Low,Normal,40,268,213
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,0,269,13
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,9,270,49
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Low,Very High,Very High,0,271,214
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Normal,Normal,Very High,2,229,72
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,23,272,215
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,12,27,216
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Low,Low,Normal,3,273,50
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Low,Normal,Very High,1,274,217
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,0,Low,Normal,Low,0,275,63
+Gabriel Pereira,Male,18,Urban,Course Preference,5 to 10 hours,0,Low,Low,Normal,3,276,40
+Gabriel Pereira,Male,17,Urban,School Reputation,Less than 2 hours,0,Normal,Very High,Very High,3,71,218
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,0,Very High,Very High,High,8,191,114
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Normal,High,7,200,88
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,High,4,30,219
+Gabriel Pereira,Male,18,Urban,Course Preference,More than 10 hours,0,Low,High,Very High,2,7,18
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,7,277,198
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,0,278,80
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Low,0,279,38
+Gabriel Pereira,Female,18,Rural,Course Preference,More than 10 hours,0,Very Low,Very Low,High,0,40,54
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Normal,Very High,16,280,114
+Gabriel Pereira,Female,19,Rural,Close to Home,5 to 10 hours,1,Very Low,Low,Very High,12,281,220
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Low,0,148,221
+Gabriel Pereira,Female,18,Urban,Close to Home,More than 10 hours,0,Very Low,Very Low,Very Low,7,282,63
+Gabriel Pereira,Female,17,Rural,Close to Home,2 to 5 hours,0,Low,Normal,Low,4,283,11
+Gabriel Pereira,Female,19,Urban,Close to Home,5 to 10 hours,1,Very Low,Normal,Normal,4,284,49
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,1,Low,Low,Low,0,285,40
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,Very High,11,286,107
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,1,Very Low,Low,High,0,287,222
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,Normal,4,288,63
+Gabriel Pereira,Female,18,Urban,Other,5 to 10 hours,0,Low,Normal,Very Low,7,289,198
+Gabriel Pereira,Male,18,Rural,Course Preference,5 to 10 hours,0,Very Low,Low,High,9,290,223
+Gabriel Pereira,Male,18,Urban,Course Preference,5 to 10 hours,0,Low,Normal,Very High,0,14,161
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,High,0,181,224
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,1,Very High,Very High,Very High,10,291,225
+Mousinho da Silveira,Male,19,Rural,Close to Home,2 to 5 hours,3,Normal,Normal,Low,8,292,7
+Mousinho da Silveira,Male,17,Urban,Course Preference,2 to 5 hours,0,Low,Normal,Normal,2,250,226
+Mousinho da Silveira,Male,18,Urban,Course Preference,Less than 2 hours,1,Low,Normal,Normal,7,293,227
+Mousinho da Silveira,Male,19,Rural,Close to Home,Less than 2 hours,1,Normal,Normal,Very High,4,294,7
+Mousinho da Silveira,Male,17,Rural,Close to Home,2 to 5 hours,0,Very Low,Normal,Low,4,87,228
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,295,229
+Mousinho da Silveira,Female,17,Rural,Other,2 to 5 hours,0,Very Low,Low,Very High,4,285,13
+Mousinho da Silveira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,2,296,230
+Mousinho da Silveira,Male,18,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Normal,4,297,231
+Mousinho da Silveira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,0,298,115
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,0,Very Low,High,Very High,0,299,229
+Mousinho da Silveira,Male,18,Rural,Other,2 to 5 hours,1,Low,Normal,Very High,2,3,232
+Mousinho da Silveira,Female,18,Urban,Other,2 to 5 hours,0,Very Low,Normal,Normal,0,167,223
+Mousinho da Silveira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,300,49
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,0,301,127
+Mousinho da Silveira,Male,18,Rural,Course Preference,2 to 5 hours,0,Low,High,Normal,4,302,233
+Mousinho da Silveira,Male,18,Urban,Other,5 to 10 hours,0,Low,Low,Very High,0,303,215
+Mousinho da Silveira,Female,17,Rural,School Reputation,Less than 2 hours,1,Very Low,Low,Very Low,0,304,234
+Mousinho da Silveira,Female,18,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,High,0,305,67
+Mousinho da Silveira,Female,18,Rural,Other,2 to 5 hours,0,High,Low,Very High,10,306,211
+Mousinho da Silveira,Female,19,Urban,Close to Home,2 to 5 hours,2,Very Low,Very Low,Normal,4,307,235
+Mousinho da Silveira,Male,18,Rural,Other,Less than 2 hours,0,Low,Normal,Normal,3,308,236
+Mousinho da Silveira,Female,17,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,8,309,237
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Very Low,14,310,18
+Mousinho da Silveira,Female,18,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very Low,0,311,7
+Mousinho da Silveira,Female,18,Rural,Close to Home,5 to 10 hours,0,Very Low,Low,High,2,183,115
+Mousinho da Silveira,Female,20,Urban,Course Preference,5 to 10 hours,2,Very Low,Very Low,Normal,4,312,238
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,0,Normal,High,Low,4,313,143
+Mousinho da Silveira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very Low,0,86,239
+Mousinho da Silveira,Female,17,Rural,School Reputation,2 to 5 hours,0,Low,Normal,Very Low,17,314,240
+Mousinho da Silveira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Low,4,315,241
+Mousinho da Silveira,Male,18,Rural,Other,Less than 2 hours,0,Very Low,Normal,Very High,5,74,242
+Mousinho da Silveira,Male,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,2,232,35
+Mousinho da Silveira,Male,19,Rural,Other,Less than 2 hours,1,Very Low,Normal,Very High,0,316,243
+Mousinho da Silveira,Male,18,Rural,Close to Home,Less than 2 hours,1,High,Normal,Normal,14,317,220
+Mousinho da Silveira,Female,18,Rural,Other,5 to 10 hours,0,Very Low,Normal,High,2,318,44
+Mousinho da Silveira,Female,18,Rural,School Reputation,Less than 2 hours,0,Low,Low,Very High,7,319,224
+Mousinho da Silveira,Female,19,Rural,Course Preference,5 to 10 hours,1,Very Low,Low,Very High,0,320,244
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,321,48
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,1,Very Low,Very Low,Very High,0,322,171
+Mousinho da Silveira,Male,20,Urban,Course Preference,2 to 5 hours,2,High,Very High,High,11,323,245
+Mousinho da Silveira,Male,17,Urban,Course Preference,Less than 2 hours,0,Normal,High,Low,3,324,197
+Mousinho da Silveira,Male,20+,Rural,Course Preference,Less than 2 hours,3,Normal,Normal,Normal,3,325,246
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,0,Normal,High,Very High,0,78,247
+Mousinho da Silveira,Male,19,Urban,Course Preference,Less than 2 hours,0,Normal,Normal,Very High,5,326,53
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,4,1,1
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,2,2
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,0,Low,Normal,Normal,6,3,248
+Gabriel Pereira,Female,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,0,4,249
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very High,0,5,243
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,6,6,96
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,0,7,7
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,2,8,8
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,0,9,175
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,10,22
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Low,2,11,63
+Gabriel Pereira,Female,15,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,0,12,12
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Very High,0,13,40
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,0,14,69
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,0,15,15
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Low,6,16,7
+Gabriel Pereira,Female,16,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,Low,10,17,250
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,2,18,17
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,3,Low,High,Very High,2,19,78
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,Very High,6,20,251
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,21,20
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,0,Very Low,Very Low,Very High,0,22,21
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Very High,0,23,22
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Low,High,Very High,2,24,23
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,25,52
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,Very High,6,26,252
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very High,8,27,175
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,0,Low,High,Very Low,0,28,151
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,2,29,66
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very High,Very High,Very High,4,30,28
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Normal,High,Very High,0,31,29
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,2,32,30
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,33,31
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,0,34,32
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,4,35,217
+Gabriel Pereira,Female,15,Urban,Other,Less than 2 hours,0,Very Low,Very Low,Very High,4,36,34
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,High,0,37,35
+Gabriel Pereira,Male,16,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very High,4,38,36
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,39,52
+Gabriel Pereira,Female,15,Rural,School Reputation,Less than 2 hours,0,Very Low,Very Low,Low,8,40,253
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Normal,16,41,38
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Low,High,Very High,8,42,39
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,43,40
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very Low,0,44,41
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,1,Low,Low,Very High,14,45,27
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,4,46,42
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Normal,6,47,43
+Gabriel Pereira,Male,16,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Low,2,48,12
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Low,Low,Very High,4,49,254
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Normal,2,43,45
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Low,Normal,High,0,50,63
+Gabriel Pereira,Female,15,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Very High,0,51,63
+Gabriel Pereira,Male,15,Urban,Other,Less than 2 hours,0,Normal,High,Very High,4,52,46
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Low,Normal,Very High,0,17,255
+Gabriel Pereira,Female,15,Urban,Other,Less than 2 hours,0,High,High,Very Low,0,53,256
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Low,2,54,146
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,55,111
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,8,11,51
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,56,52
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,57,257
+Gabriel Pereira,Female,16,Rural,Other,2 to 5 hours,0,Low,Normal,High,0,58,54
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very High,Very High,Very High,0,59,55
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,60,56
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Low,High,High,0,61,196
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Low,High,Low,0,62,58
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,2,37,35
+Gabriel Pereira,Male,15,Urban,School Reputation,More than 10 hours,0,Very High,Very High,Normal,0,63,38
+Gabriel Pereira,Female,16,Urban,Course Preference,More than 10 hours,0,Very Low,Low,Very High,0,64,258
+Gabriel Pereira,Female,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Normal,High,0,65,259
+Gabriel Pereira,Female,15,Rural,School Reputation,More than 10 hours,0,Low,Normal,Normal,6,66,61
+Gabriel Pereira,Male,16,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Very High,2,67,115
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,0,68,63
+Gabriel Pereira,Female,15,Rural,School Reputation,2 to 5 hours,0,Low,High,Very High,2,69,64
+Gabriel Pereira,Male,16,Urban,School Reputation,Less than 2 hours,0,Low,Low,Very High,0,70,65
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Low,High,Very High,4,71,27
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Very High,0,21,40
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Very Low,0,72,35
+Gabriel Pereira,Female,16,Urban,School Reputation,More than 10 hours,0,Very Low,Normal,Normal,1,73,260
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,3,Very Low,Very Low,Normal,0,74,68
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,14,75,69
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Normal,0,76,261
+Gabriel Pereira,Male,15,Urban,Close to Home,5 to 10 hours,0,Very Low,Low,Very High,2,77,262
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,4,78,7
+Gabriel Pereira,Male,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,High,2,79,13
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Low,Normal,High,2,80,32
+Gabriel Pereira,Female,15,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Very High,4,81,104
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Low,6,82,74
+Gabriel Pereira,Female,15,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Very Low,4,83,40
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Normal,6,84,244
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Normal,Very High,Very High,6,85,76
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Normal,High,2,86,177
+Gabriel Pereira,Female,15,Urban,School Reputation,Less than 2 hours,0,Very Low,Normal,Very Low,6,87,18
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Low,0,88,79
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,2,89,40
+Gabriel Pereira,Male,15,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,2,90,80
+Gabriel Pereira,Female,15,Rural,Close to Home,More than 10 hours,0,Very Low,Very Low,Very Low,4,91,81
+Gabriel Pereira,Male,16,Rural,School Reputation,Less than 2 hours,0,Very Low,Very Low,High,6,92,263
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,74,264
+Gabriel Pereira,Female,16,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,Very Low,4,93,84
+Gabriel Pereira,Female,16,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,2,94,265
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Very High,Very High,High,12,32,266
+Gabriel Pereira,Male,16,Urban,Other,5 to 10 hours,0,Very Low,Very Low,High,0,43,36
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,2,95,267
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Low,16,96,265
+Gabriel Pereira,Male,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,97,23
+Gabriel Pereira,Female,15,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,10,98,79
+Gabriel Pereira,Female,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,4,73,268
+Gabriel Pereira,Male,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,4,99,40
+Gabriel Pereira,Male,15,Rural,Close to Home,More than 10 hours,0,Normal,Very High,Very Low,8,100,269
+Gabriel Pereira,Female,16,Urban,Other,5 to 10 hours,0,Very Low,Very Low,High,2,101,270
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,4,102,91
+Gabriel Pereira,Female,16,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Low,4,103,92
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,1,Very Low,Very Low,Very High,12,104,92
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,10,105,93
+Gabriel Pereira,Male,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,4,106,94
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,6,107,23
+Gabriel Pereira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Low,4,108,95
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,6,109,96
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,1,Very Low,High,Very High,14,110,97
+Gabriel Pereira,Male,15,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,High,2,111,69
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,0,112,98
+Gabriel Pereira,Male,15,Urban,Close to Home,More than 10 hours,0,Very Low,Low,Very High,6,44,271
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,2,113,249
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Very High,4,114,23
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,73,104
+Gabriel Pereira,Male,15,Urban,Close to Home,Less than 2 hours,0,Normal,Low,Very High,2,115,100
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very Low,0,116,101
+Gabriel Pereira,Female,19,Urban,Course Preference,2 to 5 hours,2,Very Low,Very Low,Very High,0,117,102
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,Very High,High,8,119,18
+Gabriel Pereira,Male,16,Urban,Course Preference,5 to 10 hours,0,Low,Low,Very Low,4,327,272
+Gabriel Pereira,Female,15,Rural,Course Preference,5 to 10 hours,0,Low,Low,Very High,0,120,103
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,3,Very Low,Normal,Very High,10,269,273
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,8,328,175
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,High,6,121,38
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Very High,2,122,104
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Very High,12,123,105
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Low,4,329,274
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,1,Very Low,Very Low,Very High,12,330,74
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,2,124,106
+Gabriel Pereira,Female,15,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,4,125,107
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Low,High,Very High,2,126,108
+Gabriel Pereira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,0,145,76
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,0,High,Very High,High,2,331,146
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very High,Very Low,Very High,10,332,38
+Gabriel Pereira,Female,16,Rural,School Reputation,Less than 2 hours,0,Very Low,Low,Very Low,8,333,275
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,4,127,109
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,2,Very Low,Normal,Very High,0,128,110
+Gabriel Pereira,Female,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,6,30,111
+Gabriel Pereira,Female,15,Rural,Course Preference,Less than 2 hours,1,Very Low,Very Low,Very Low,2,244,173
+Gabriel Pereira,Male,15,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Normal,6,129,112
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Very Low,24,334,276
+Gabriel Pereira,Male,16,Urban,Course Preference,5 to 10 hours,0,Very Low,Normal,Very High,0,212,40
+Gabriel Pereira,Male,16,Urban,School Reputation,Less than 2 hours,0,Low,Low,Low,4,130,40
+Gabriel Pereira,Female,15,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,131,12
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Normal,Normal,Very Low,4,132,7
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very High,22,133,114
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,0,134,277
+Gabriel Pereira,Female,15,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,0,335,278
+Gabriel Pereira,Female,15,Urban,Close to Home,2 to 5 hours,1,Very Low,Very Low,Normal,2,135,115
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,6,136,279
+Gabriel Pereira,Female,15,Urban,Course Preference,2 to 5 hours,0,Low,High,Very Low,6,336,280
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Low,Very Low,Very High,16,119,117
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Low,Very High,Very High,0,137,118
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,2,Low,Very High,High,0,138,119
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Normal,Very High,Very High,6,139,120
+Gabriel Pereira,Female,15,Rural,School Reputation,5 to 10 hours,0,Low,Normal,Normal,2,140,121
+Gabriel Pereira,Male,19,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,High,6,141,122
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,0,142,123
+Gabriel Pereira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,143,124
+Gabriel Pereira,Male,17,Rural,School Reputation,Less than 2 hours,3,Normal,Normal,Very High,14,144,125
+Gabriel Pereira,Female,18,Rural,Course Preference,Less than 2 hours,3,Very Low,Very High,High,6,145,126
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Very Low,Low,Normal,4,40,127
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,1,High,High,Very High,0,146,281
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,2,Normal,Very High,Very High,0,337,197
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,1,Low,Low,Very High,8,147,282
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,2,Very Low,High,Normal,4,148,130
+Gabriel Pereira,Male,15,Urban,Course Preference,Less than 2 hours,0,Low,High,Very High,2,149,54
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Very Low,High,Low,2,150,131
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Very High,Very High,0,151,132
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,3,Very Low,Very Low,Low,10,152,133
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Low,High,High,0,153,134
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,0,154,260
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,0,73,283
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Normal,0,155,284
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,1,Low,High,Low,4,111,137
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Normal,0,156,149
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very High,0,157,23
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,0,158,139
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,0,159,285
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,High,High,High,0,160,23
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,High,Very High,0,118,286
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,High,High,4,5,84
+Gabriel Pereira,Male,16,Rural,Other,Less than 2 hours,0,Normal,High,Normal,8,161,107
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,4,162,144
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Normal,4,163,143
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Normal,0,164,142
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Very High,0,165,145
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Very Low,32,34,107
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very Low,8,166,175
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,Low,Normal,High,6,167,146
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Very Low,Low,Normal,0,168,107
+Gabriel Pereira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,0,169,142
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Normal,10,170,148
+Gabriel Pereira,Male,17,Rural,Close to Home,2 to 5 hours,0,Very Low,Very High,Normal,6,171,76
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,6,172,63
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,0,173,40
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,High,Very High,Very High,16,174,286
+Gabriel Pereira,Male,16,Rural,School Reputation,Less than 2 hours,0,Normal,High,Very High,0,167,111
+Gabriel Pereira,Male,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Normal,0,175,63
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,8,176,149
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very High,4,177,53
+Gabriel Pereira,Male,16,Rural,Close to Home,Less than 2 hours,0,Normal,Very High,Normal,16,178,80
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,1,Low,Normal,Low,30,179,151
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,0,180,93
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very High,Low,2,181,153
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,High,4,182,287
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Very Low,0,183,288
+Gabriel Pereira,Female,17,Rural,School Reputation,Less than 2 hours,0,Very Low,Low,Normal,21,73,115
+Gabriel Pereira,Female,16,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Very High,6,184,218
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,1,Normal,High,Very High,14,185,157
+Gabriel Pereira,Female,16,Urban,Course Preference,2 to 5 hours,0,Low,Low,High,2,186,63
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Very Low,4,187,149
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Very High,2,121,243
+Gabriel Pereira,Female,17,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,0,21,94
+Gabriel Pereira,Female,19,Urban,School Reputation,More than 10 hours,0,Very Low,Low,Normal,4,188,40
+Gabriel Pereira,Male,17,Urban,Close to Home,2 to 5 hours,0,High,Very High,Normal,15,189,289
+Gabriel Pereira,Female,16,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,0,190,255
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Low,High,Very High,10,191,23
+Gabriel Pereira,Female,17,Rural,Other,Less than 2 hours,0,Very Low,Low,Normal,6,189,274
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very Low,2,192,7
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,High,Very Low,16,193,290
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Low,High,High,10,194,151
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Normal,4,195,254
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,0,196,40
+Gabriel Pereira,Female,17,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,0,197,162
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very High,12,121,163
+Gabriel Pereira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Normal,0,198,164
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,3,Very High,Very High,High,9,199,11
+Gabriel Pereira,Female,16,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very High,4,200,32
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,High,4,70,107
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Normal,2,35,84
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Normal,0,201,2
+Gabriel Pereira,Male,18,Urban,Course Preference,2 to 5 hours,0,High,Very High,Normal,2,139,101
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,Normal,0,202,142
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,0,20,142
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,153,291
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Low,0,30,168
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,0,Low,High,Very Low,0,203,97
+Gabriel Pereira,Male,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,2,204,277
+Gabriel Pereira,Male,16,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Low,0,205,107
+Gabriel Pereira,Male,17,Urban,Close to Home,2 to 5 hours,0,Very High,Very High,High,0,206,292
+Gabriel Pereira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,4,74,15
+Gabriel Pereira,Female,16,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very High,0,338,107
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,1,Very Low,Very Low,Normal,18,339,63
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,1,Very Low,Very Low,Very High,16,340,293
+Gabriel Pereira,Female,18,Urban,Course Preference,Less than 2 hours,1,Very Low,Very Low,Normal,14,86,294
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,1,Low,Low,Very Low,26,341,295
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,6,30,296
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,4,342,145
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,High,10,343,149
+Gabriel Pereira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,4,344,134
+Gabriel Pereira,Female,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,207,171
+Gabriel Pereira,Female,17,Rural,Course Preference,Less than 2 hours,1,Very Low,Very Low,Very High,14,345,297
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Normal,Very High,Low,16,208,172
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,1,Very Low,Very Low,Very Low,8,346,298
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Very Low,Normal,Very High,4,3,40
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,High,4,347,65
+Gabriel Pereira,Male,17,Urban,Course Preference,2 to 5 hours,0,Very Low,High,Very High,8,209,173
+Gabriel Pereira,Male,17,Rural,Course Preference,2 to 5 hours,0,Low,Normal,High,0,210,63
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,7,211,137
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,4,212,50
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,High,Very High,2,200,299
+Gabriel Pereira,Male,17,Rural,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very Low,2,80,148
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,0,Low,Normal,Very High,10,164,103
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,High,10,121,300
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,10,213,301
+Gabriel Pereira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,7,74,63
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,4,134,74
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Low,2,175,175
+Gabriel Pereira,Male,20+,Urban,Other,Less than 2 hours,3,Very High,Very High,Very Low,12,214,176
+Gabriel Pereira,Male,18,Rural,Course Preference,2 to 5 hours,0,Very Low,Normal,Very High,8,215,177
+Gabriel Pereira,Male,16,Urban,Other,Less than 2 hours,0,Low,High,Very High,0,216,279
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,0,Low,High,Very High,8,96,178
+Gabriel Pereira,Male,16,Urban,School Reputation,2 to 5 hours,1,Very Low,Normal,Low,4,217,179
+Gabriel Pereira,Male,18,Urban,Other,Less than 2 hours,2,Low,Very High,Very High,4,218,180
+Gabriel Pereira,Male,16,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Normal,2,219,181
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,0,Low,High,Very High,0,74,61
+Gabriel Pereira,Male,17,Urban,Course Preference,Less than 2 hours,1,Very Low,Low,Very High,0,220,23
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Normal,Very High,2,348,302
+Gabriel Pereira,Female,17,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,High,2,221,250
+Gabriel Pereira,Female,19,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,349,63
+Gabriel Pereira,Male,18,Urban,Course Preference,2 to 5 hours,1,High,High,Very High,4,350,303
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Very Low,Normal,Very High,2,257,80
+Gabriel Pereira,Female,18,Urban,Close to Home,5 to 10 hours,0,Low,Normal,Normal,4,351,304
+Gabriel Pereira,Female,18,Rural,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,4,199,305
+Gabriel Pereira,Male,19,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,4,222,182
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,High,2,133,97
+Gabriel Pereira,Male,17,Rural,Other,Less than 2 hours,0,Very Low,Very Low,High,0,352,306
+Gabriel Pereira,Female,17,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Low,2,223,307
+Gabriel Pereira,Female,20,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Low,8,353,308
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,Low,2,224,213
+Gabriel Pereira,Male,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,21,279
+Gabriel Pereira,Male,18,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,2,35,181
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,High,2,225,185
+Gabriel Pereira,Female,18,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,0,226,107
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Low,Normal,High,8,153,309
+Gabriel Pereira,Male,18,Rural,School Reputation,2 to 5 hours,0,Normal,High,Very Low,6,227,162
+Gabriel Pereira,Male,17,Urban,Other,2 to 5 hours,0,Normal,High,Very High,0,228,203
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,0,Low,Low,High,8,229,80
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Very High,4,230,270
+Gabriel Pereira,Female,18,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Normal,12,74,119
+Gabriel Pereira,Female,19,Urban,Close to Home,2 to 5 hours,0,Normal,Normal,Very High,16,231,153
+Gabriel Pereira,Female,18,Urban,School Reputation,More than 10 hours,0,Very Low,Normal,Low,10,232,173
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,2,233,304
+Gabriel Pereira,Male,17,Rural,Close to Home,2 to 5 hours,0,Low,Low,Very Low,2,234,310
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very Low,8,74,311
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,6,235,177
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Low,Normal,Very High,6,236,130
+Gabriel Pereira,Female,18,Rural,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,15,237,193
+Gabriel Pereira,Male,18,Urban,Close to Home,Less than 2 hours,0,Very Low,High,Normal,6,238,97
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,1,Very Low,Very Low,High,2,239,58
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very Low,8,354,260
+Gabriel Pereira,Female,19,Rural,School Reputation,2 to 5 hours,1,High,Normal,Normal,0,355,312
+Gabriel Pereira,Male,18,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very Low,0,240,250
+Gabriel Pereira,Male,18,Urban,Close to Home,Less than 2 hours,0,Low,High,High,10,356,313
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Low,High,Very High,22,241,314
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Normal,High,Normal,18,242,7
+Gabriel Pereira,Female,18,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,2,243,51
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,0,244,196
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,12,73,197
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,10,74,315
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,High,0,80,2
+Gabriel Pereira,Female,18,Urban,Other,5 to 10 hours,0,Very Low,Low,Low,0,196,63
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Normal,0,245,63
+Gabriel Pereira,Male,18,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,Low,0,246,97
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Low,0,102,35
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Very High,2,49,149
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,Normal,0,48,175
+Gabriel Pereira,Female,17,Rural,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,0,248,316
+Gabriel Pereira,Male,18,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,High,0,249,96
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,Very High,0,250,69
+Gabriel Pereira,Female,19,Urban,School Reputation,2 to 5 hours,0,Low,Normal,Low,2,251,80
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Low,0,252,290
+Gabriel Pereira,Female,18,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Normal,0,253,63
+Gabriel Pereira,Male,18,Urban,Close to Home,Less than 2 hours,0,Low,Low,Very Low,0,254,284
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,0,255,317
+Gabriel Pereira,Male,17,Urban,Close to Home,Less than 2 hours,0,Low,Low,Very High,0,256,318
+Gabriel Pereira,Female,17,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very High,0,212,80
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Very Low,Normal,0,257,63
+Gabriel Pereira,Female,17,Urban,School Reputation,More than 10 hours,0,Very Low,Low,Very High,0,258,319
+Gabriel Pereira,Male,19,Rural,Course Preference,5 to 10 hours,1,Very Low,Very Low,Very High,0,357,315
+Gabriel Pereira,Male,20,Urban,Course Preference,Less than 2 hours,2,Very Low,Very Low,Very High,0,260,204
+Gabriel Pereira,Male,19,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,0,146,206
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very High,2,358,320
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,2,269,40
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,359,321
+Gabriel Pereira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,2,30,23
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,2,270,146
+Gabriel Pereira,Female,18,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Very Low,8,360,151
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Low,Very High,Very High,2,271,84
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,8,361,322
+Gabriel Pereira,Male,19,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,9,362,203
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Normal,Normal,Very High,0,229,7
+Gabriel Pereira,Female,18,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very Low,4,10,203
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,2,363,80
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,14,272,103
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Very High,0,364,258
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Low,Low,Low,2,365,250
+Gabriel Pereira,Male,18,Urban,School Reputation,Less than 2 hours,0,Normal,High,Very High,2,366,323
+Gabriel Pereira,Female,19,Urban,Course Preference,5 to 10 hours,0,High,Normal,Very High,12,367,324
+Gabriel Pereira,Female,19,Urban,Course Preference,2 to 5 hours,2,Very Low,Very Low,High,2,368,302
+Gabriel Pereira,Female,18,Urban,Course Preference,Less than 2 hours,0,Low,High,Very High,2,27,269
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,4,27,216
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Low,Low,Normal,0,273,111
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Low,Normal,Very High,0,274,217
+Gabriel Pereira,Female,17,Urban,Close to Home,5 to 10 hours,0,Low,Normal,Low,0,275,63
+Gabriel Pereira,Female,18,Urban,Close to Home,5 to 10 hours,0,Very Low,Low,Low,0,183,18
+Gabriel Pereira,Male,18,Urban,Course Preference,5 to 10 hours,0,Low,Low,Normal,0,276,40
+Gabriel Pereira,Male,17,Urban,School Reputation,Less than 2 hours,0,Normal,Very High,Very High,0,71,218
+Gabriel Pereira,Male,17,Rural,Course Preference,Less than 2 hours,0,Very High,Very High,High,2,191,114
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Normal,High,0,200,23
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,High,4,30,148
+Gabriel Pereira,Female,17,Urban,Course Preference,Less than 2 hours,0,Low,Very High,Very High,2,369,186
+Gabriel Pereira,Male,18,Urban,Course Preference,More than 10 hours,0,Low,High,Very High,0,7,78
+Gabriel Pereira,Male,19,Rural,Close to Home,Less than 2 hours,0,Low,Low,Very High,0,370,280
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,2,40,325
+Gabriel Pereira,Female,17,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,Very High,0,277,198
+Gabriel Pereira,Male,18,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,Very High,6,73,61
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,High,8,278,80
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Low,0,279,38
+Gabriel Pereira,Female,18,Rural,Course Preference,More than 10 hours,0,Very Low,Very Low,High,6,40,54
+Gabriel Pereira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Normal,Very High,8,280,114
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Low,Normal,Low,0,148,223
+Gabriel Pereira,Female,18,Urban,Close to Home,More than 10 hours,0,Very Low,Very Low,Very Low,4,282,63
+Gabriel Pereira,Female,17,Rural,Close to Home,2 to 5 hours,0,Low,Normal,Low,0,283,63
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Low,Low,Low,0,285,40
+Gabriel Pereira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,Very High,6,286,107
+Gabriel Pereira,Female,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,High,18,287,222
+Gabriel Pereira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Low,Normal,0,288,63
+Gabriel Pereira,Female,18,Urban,Other,5 to 10 hours,0,Low,Normal,Very Low,4,289,198
+Gabriel Pereira,Male,18,Rural,Course Preference,5 to 10 hours,0,Very Low,Low,High,4,290,223
+Gabriel Pereira,Male,18,Urban,Course Preference,5 to 10 hours,0,Low,Normal,Very High,0,14,290
+Gabriel Pereira,Female,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Normal,High,0,181,36
+Gabriel Pereira,Female,17,Urban,Course Preference,2 to 5 hours,0,Low,Low,Very Low,10,371,146
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Low,High,High,4,371,153
+Gabriel Pereira,Female,19,Urban,Close to Home,Less than 2 hours,1,Normal,High,Very High,16,372,326
+Gabriel Pereira,Female,17,Urban,Close to Home,Less than 2 hours,1,Very Low,Very Low,Normal,6,373,184
+Gabriel Pereira,Female,20+,Urban,School Reputation,5 to 10 hours,2,Very Low,Very Low,Very High,0,374,50
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,Normal,11,50,327
+Gabriel Pereira,Male,18,Urban,School Reputation,2 to 5 hours,0,Very Low,High,Low,9,375,269
+Gabriel Pereira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,High,0,349,80
+Gabriel Pereira,Male,17,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,High,2,255,277
+Gabriel Pereira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,0,23,12
+Gabriel Pereira,Male,20+,Rural,Course Preference,2 to 5 hours,2,Very High,Low,High,21,376,328
+Gabriel Pereira,Female,20,Rural,School Reputation,5 to 10 hours,0,Very Low,Normal,Normal,8,377,103
+Gabriel Pereira,Female,19,Urban,Close to Home,Less than 2 hours,1,High,High,Very High,5,378,311
+Gabriel Pereira,Male,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,10,379,7
+Gabriel Pereira,Female,18,Urban,School Reputation,5 to 10 hours,0,Very Low,Low,Low,5,380,329
+Gabriel Pereira,Male,18,Rural,School Reputation,Less than 2 hours,0,High,Very High,High,13,76,330
+Gabriel Pereira,Male,19,Urban,School Reputation,Less than 2 hours,0,Very Low,High,High,10,133,256
+Gabriel Pereira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Normal,High,10,381,322
+Gabriel Pereira,Female,20,Urban,School Reputation,Less than 2 hours,1,Very Low,Very Low,Very High,5,382,331
+Gabriel Pereira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very Low,4,383,332
+Mousinho da Silveira,Female,16,Urban,Other,Less than 2 hours,0,Very Low,Normal,Very High,11,384,227
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,27,23
+Mousinho da Silveira,Female,15,Rural,Other,Less than 2 hours,1,Very Low,Very Low,Low,6,385,333
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,0,Low,Normal,Very High,4,386,7
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Very High,0,143,334
+Mousinho da Silveira,Female,15,Rural,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very Low,0,387,335
+Mousinho da Silveira,Male,16,Rural,Close to Home,2 to 5 hours,0,Very Low,Normal,Low,5,388,243
+Mousinho da Silveira,Male,16,Urban,Other,5 to 10 hours,0,Very Low,Very Low,Very High,0,389,336
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,1,Very Low,Low,Very High,0,380,337
+Mousinho da Silveira,Female,17,Rural,Other,Less than 2 hours,1,Low,Low,Very High,0,390,313
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,0,Normal,Very High,Very High,0,391,338
+Mousinho da Silveira,Female,16,Urban,School Reputation,More than 10 hours,0,Very Low,Very Low,Very Low,4,392,339
+Mousinho da Silveira,Female,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,High,0,298,69
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,1,Very Low,Low,Low,4,393,198
+Mousinho da Silveira,Female,16,Rural,Other,Less than 2 hours,0,Very Low,Low,Low,0,394,340
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Normal,2,77,118
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,0,146,341
+Mousinho da Silveira,Male,16,Urban,Close to Home,2 to 5 hours,0,High,Very High,Normal,0,173,342
+Mousinho da Silveira,Male,17,Urban,Close to Home,2 to 5 hours,0,Low,High,Very High,4,183,33
+Mousinho da Silveira,Male,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Low,0,395,80
+Mousinho da Silveira,Male,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Low,7,395,80
+Mousinho da Silveira,Male,16,Rural,Other,2 to 5 hours,0,Very Low,Low,Very High,4,396,343
+Mousinho da Silveira,Male,15,Rural,Course Preference,2 to 5 hours,0,Low,High,High,8,244,342
+Mousinho da Silveira,Male,15,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,0,397,40
+Mousinho da Silveira,Male,17,Rural,Other,Less than 2 hours,0,Very High,Very High,Normal,8,133,324
+Mousinho da Silveira,Female,16,Rural,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,6,30,249
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very Low,3,398,316
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,2,399,297
+Mousinho da Silveira,Male,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,400,254
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,High,4,27,114
+Mousinho da Silveira,Female,16,Urban,Course Preference,5 to 10 hours,1,Very Low,Low,High,0,401,243
+Mousinho da Silveira,Female,16,Urban,Course Preference,5 to 10 hours,1,Very Low,Low,High,3,401,243
+Mousinho da Silveira,Female,15,Urban,Close to Home,2 to 5 hours,0,Normal,Normal,Low,0,402,344
+Mousinho da Silveira,Female,16,Urban,Course Preference,2 to 5 hours,0,Low,Very Low,Low,0,2,345
+Mousinho da Silveira,Male,17,Rural,School Reputation,Less than 2 hours,0,Very High,Very High,Normal,4,403,18
+Mousinho da Silveira,Female,16,Rural,Close to Home,More than 10 hours,0,Very Low,Very Low,Very Low,0,80,279
+Mousinho da Silveira,Female,16,Rural,Other,5 to 10 hours,0,Very Low,Very Low,Very High,2,404,346
+Mousinho da Silveira,Female,15,Rural,Close to Home,2 to 5 hours,0,Very Low,Very Low,Low,1,404,40
+Mousinho da Silveira,Female,16,Rural,Other,Less than 2 hours,0,High,Normal,Low,0,121,249
+Mousinho da Silveira,Female,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Low,0,405,274
+Mousinho da Silveira,Female,15,Rural,Other,5 to 10 hours,0,Low,Low,Very High,2,206,346
+Mousinho da Silveira,Male,16,Rural,Other,Less than 2 hours,0,Normal,High,Very High,6,406,54
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,1,Low,Normal,Very High,9,407,203
+Mousinho da Silveira,Male,15,Urban,Close to Home,Less than 2 hours,0,Very Low,Normal,High,0,408,347
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,1,208,80
+Mousinho da Silveira,Male,15,Urban,School Reputation,Less than 2 hours,0,Very Low,Low,High,1,409,254
+Mousinho da Silveira,Male,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,0,108,348
+Mousinho da Silveira,Female,15,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,4,164,349
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,1,Low,Normal,Very High,2,40,350
+Mousinho da Silveira,Female,16,Rural,Close to Home,Less than 2 hours,0,Very Low,Very Low,High,0,206,351
+Mousinho da Silveira,Male,16,Urban,Course Preference,Less than 2 hours,0,Low,Normal,High,4,410,35
+Mousinho da Silveira,Male,15,Rural,School Reputation,Less than 2 hours,0,Normal,Very High,Normal,2,411,97
+Mousinho da Silveira,Female,15,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,0,352,65
+Mousinho da Silveira,Female,16,Rural,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,2,412,198
+Mousinho da Silveira,Male,15,Urban,Course Preference,Less than 2 hours,0,Low,High,Normal,11,413,87
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,3,Very Low,Very Low,Very Low,0,406,346
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,4,414,352
+Mousinho da Silveira,Female,19,Urban,Course Preference,Less than 2 hours,1,Very Low,Very Low,Low,0,415,353
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,2,416,354
+Mousinho da Silveira,Female,15,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,High,0,243,355
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Very Low,1,417,178
+Mousinho da Silveira,Female,16,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Very Low,6,418,335
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,High,0,40,43
+Mousinho da Silveira,Female,16,Urban,Course Preference,Less than 2 hours,1,Very Low,High,Normal,1,354,356
+Mousinho da Silveira,Female,18,Rural,Course Preference,5 to 10 hours,2,Very Low,Very Low,Low,6,419,357
+Mousinho da Silveira,Female,19,Urban,Course Preference,5 to 10 hours,1,Very Low,Very Low,Normal,6,173,358
+Mousinho da Silveira,Male,18,Rural,Close to Home,Less than 2 hours,1,Normal,High,High,0,183,359
+Mousinho da Silveira,Female,18,Rural,Course Preference,Less than 2 hours,1,Very Low,Very Low,Low,4,420,360
+Mousinho da Silveira,Female,19,Urban,Course Preference,2 to 5 hours,1,High,Very Low,Very Low,12,367,361
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Normal,2,421,276
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Normal,Very High,Very High,5,422,350
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Normal,Normal,0,423,362
+Mousinho da Silveira,Female,16,Urban,School Reputation,Less than 2 hours,0,Very Low,Very Low,High,0,86,363
+Mousinho da Silveira,Female,16,Rural,Close to Home,Less than 2 hours,0,Low,Low,High,2,424,203
+Mousinho da Silveira,Male,17,Urban,Course Preference,More than 10 hours,1,Normal,High,Very High,0,425,364
+Mousinho da Silveira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,426,40
+Mousinho da Silveira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,0,191,365
+Mousinho da Silveira,Male,17,Urban,Course Preference,Less than 2 hours,1,Very High,Very High,Very Low,12,427,366
+Mousinho da Silveira,Male,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Very High,Very High,8,428,162
+Mousinho da Silveira,Male,17,Rural,Other,More than 10 hours,1,Normal,Very High,Normal,2,429,367
+Mousinho da Silveira,Female,16,Urban,Course Preference,More than 10 hours,0,Very Low,Very Low,Very High,0,430,368
+Mousinho da Silveira,Female,19,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Very Low,0,24,290
+Mousinho da Silveira,Female,17,Rural,School Reputation,Less than 2 hours,0,Very Low,Low,Very High,0,121,369
+Mousinho da Silveira,Female,20,Urban,Other,2 to 5 hours,1,Low,High,Normal,8,431,146
+Mousinho da Silveira,Female,17,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,Normal,0,432,106
+Mousinho da Silveira,Male,17,Rural,Course Preference,Less than 2 hours,1,Very Low,Low,Very High,0,27,197
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,433,243
+Mousinho da Silveira,Female,17,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,0,73,65
+Mousinho da Silveira,Female,17,Urban,Other,2 to 5 hours,0,Very Low,Very Low,High,1,434,290
+Mousinho da Silveira,Female,18,Rural,Other,2 to 5 hours,1,Very Low,Very Low,Very High,9,121,223
+Mousinho da Silveira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,Normal,Very Low,0,435,251
+Mousinho da Silveira,Female,16,Urban,Course Preference,Less than 2 hours,0,Very Low,High,Normal,2,436,330
+Mousinho da Silveira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,High,Normal,8,437,370
+Mousinho da Silveira,Female,16,Rural,School Reputation,2 to 5 hours,0,Low,Normal,Low,0,438,38
+Mousinho da Silveira,Female,16,Rural,School Reputation,Less than 2 hours,0,Very Low,High,Low,0,439,285
+Mousinho da Silveira,Female,18,Urban,School Reputation,2 to 5 hours,1,Very Low,Normal,Very Low,8,440,115
+Mousinho da Silveira,Male,16,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Low,0,426,371
+Mousinho da Silveira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Normal,Very High,6,3,115
+Mousinho da Silveira,Female,16,Rural,Other,2 to 5 hours,0,Very Low,Very Low,Low,0,441,40
+Mousinho da Silveira,Female,16,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,4,155,329
+Mousinho da Silveira,Male,18,Urban,Close to Home,More than 10 hours,0,Very High,Very High,Very High,2,442,372
+Mousinho da Silveira,Female,16,Rural,Other,2 to 5 hours,0,Very Low,Very Low,Low,2,443,373
+Mousinho da Silveira,Male,17,Urban,Close to Home,5 to 10 hours,0,Very Low,Low,Very High,0,444,69
+Mousinho da Silveira,Female,17,Rural,Other,Less than 2 hours,0,Very Low,Low,Very High,1,445,260
+Mousinho da Silveira,Male,16,Urban,Other,5 to 10 hours,0,Low,Low,Normal,0,79,76
+Mousinho da Silveira,Female,17,Rural,Other,Less than 2 hours,0,Very Low,Low,Very High,5,318,374
+Mousinho da Silveira,Female,16,Urban,Other,Less than 2 hours,0,Very Low,Low,Very High,1,446,76
+Mousinho da Silveira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very High,Very High,Normal,8,167,375
+Mousinho da Silveira,Male,17,Urban,Other,2 to 5 hours,0,Normal,Normal,Very Low,0,173,376
+Mousinho da Silveira,Male,16,Urban,Other,2 to 5 hours,0,Very Low,High,Very High,2,447,377
+Mousinho da Silveira,Female,16,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Normal,0,448,103
+Mousinho da Silveira,Male,16,Urban,Other,Less than 2 hours,0,Low,Very High,Very High,0,449,378
+Mousinho da Silveira,Male,15,Rural,Course Preference,2 to 5 hours,0,Very Low,Normal,Very High,11,398,379
+Mousinho da Silveira,Male,15,Urban,School Reputation,More than 10 hours,0,Low,Normal,Very High,8,450,380
+Mousinho da Silveira,Male,15,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,11,451,40
+Mousinho da Silveira,Female,16,Rural,Course Preference,5 to 10 hours,0,Low,Low,Very High,2,7,381
+Mousinho da Silveira,Female,16,Urban,Close to Home,2 to 5 hours,0,Low,Low,Very Low,8,452,97
+Mousinho da Silveira,Female,17,Urban,Close to Home,Less than 2 hours,0,Low,Low,Very Low,5,453,106
+Mousinho da Silveira,Female,17,Rural,Other,2 to 5 hours,0,Very Low,Very Low,Very High,0,73,382
+Mousinho da Silveira,Female,16,Urban,Course Preference,5 to 10 hours,0,Very Low,High,Very High,1,200,289
+Mousinho da Silveira,Male,17,Rural,Course Preference,Less than 2 hours,3,Very Low,Normal,Very High,2,454,107
+Mousinho da Silveira,Male,17,Rural,Course Preference,Less than 2 hours,0,Normal,Normal,Very High,2,455,383
+Mousinho da Silveira,Male,17,Urban,Other,2 to 5 hours,1,Normal,High,Very High,8,456,384
+Mousinho da Silveira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,22,323
+Mousinho da Silveira,Male,16,Rural,Other,Less than 2 hours,0,Low,Very Low,Low,0,457,378
+Mousinho da Silveira,Female,17,Urban,Other,2 to 5 hours,0,Very Low,Low,Normal,2,458,173
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,0,Low,Normal,Very High,0,257,179
+Mousinho da Silveira,Male,16,Urban,Course Preference,2 to 5 hours,0,Low,Low,Very High,0,459,212
+Mousinho da Silveira,Male,17,Urban,Other,2 to 5 hours,0,Low,Low,Very Low,0,460,385
+Mousinho da Silveira,Male,19,Urban,Other,2 to 5 hours,2,Normal,High,High,2,183,359
+Mousinho da Silveira,Male,17,Urban,Close to Home,Less than 2 hours,0,Very Low,Very Low,Very High,4,461,386
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Low,Low,High,3,462,372
+Mousinho da Silveira,Female,16,Rural,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,5,400,64
+Mousinho da Silveira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,High,Very High,4,463,387
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,3,Very Low,Very Low,Very High,2,70,384
+Mousinho da Silveira,Male,17,Rural,Course Preference,Less than 2 hours,0,Normal,Very High,Very High,0,73,324
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,1,Very Low,Very Low,High,0,464,388
+Mousinho da Silveira,Male,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Low,0,316,389
+Mousinho da Silveira,Male,18,Urban,Course Preference,2 to 5 hours,0,Very Low,High,Very High,6,343,390
+Mousinho da Silveira,Female,16,Rural,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,0,465,237
+Mousinho da Silveira,Male,17,Urban,Course Preference,Less than 2 hours,1,Low,Normal,Very High,0,466,391
+Mousinho da Silveira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,Normal,Very High,2,467,118
+Mousinho da Silveira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,High,Very High,0,3,18
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,1,Low,Normal,Very High,2,468,227
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,1,Low,Low,Very High,0,469,392
+Mousinho da Silveira,Male,19,Urban,Course Preference,Less than 2 hours,3,Very Low,Very Low,Normal,4,470,393
+Mousinho da Silveira,Male,18,Urban,Course Preference,2 to 5 hours,2,Very Low,Normal,Normal,9,471,362
+Mousinho da Silveira,Male,16,Rural,Course Preference,Less than 2 hours,0,Low,High,High,6,184,36
+Mousinho da Silveira,Male,19,Urban,Course Preference,Less than 2 hours,3,Very Low,Normal,Very High,4,472,295
+Mousinho da Silveira,Female,16,Urban,Course Preference,2 to 5 hours,2,Very Low,Very Low,Very Low,8,473,394
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,Very High,9,474,65
+Mousinho da Silveira,Male,20,Rural,Course Preference,Less than 2 hours,1,Low,High,High,12,294,395
+Mousinho da Silveira,Female,18,Rural,Course Preference,Less than 2 hours,0,Normal,High,Low,8,272,7
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,0,Very High,Very High,Very High,8,291,225
+Mousinho da Silveira,Male,19,Rural,Close to Home,2 to 5 hours,1,Normal,Normal,Low,8,292,7
+Mousinho da Silveira,Male,17,Urban,Course Preference,2 to 5 hours,1,Low,Normal,Normal,4,250,297
+Mousinho da Silveira,Male,18,Urban,Course Preference,Less than 2 hours,0,Low,Normal,Normal,0,293,227
+Mousinho da Silveira,Male,19,Rural,Close to Home,Less than 2 hours,1,Normal,Normal,Very High,4,294,7
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,2,Very Low,Very Low,Very High,2,475,254
+Mousinho da Silveira,Female,19,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,0,476,396
+Mousinho da Silveira,Female,18,Rural,Other,Less than 2 hours,1,Very Low,Very Low,Normal,0,73,397
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,0,477,69
+Mousinho da Silveira,Female,17,Rural,Course Preference,5 to 10 hours,0,Low,Low,Normal,5,478,398
+Mousinho da Silveira,Female,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Normal,Very High,0,89,266
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,1,Very Low,Low,High,3,479,40
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Very High,0,480,216
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,Normal,0,481,399
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,2,Low,Low,Very High,3,69,120
+Mousinho da Silveira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very Low,2,482,218
+Mousinho da Silveira,Female,17,Urban,Course Preference,Less than 2 hours,0,Very Low,Very Low,High,0,167,69
+Mousinho da Silveira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,High,0,483,69
+Mousinho da Silveira,Female,18,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very Low,0,30,218
+Mousinho da Silveira,Male,18,Urban,School Reputation,Less than 2 hours,0,Very Low,Very Low,Very High,3,189,285
+Mousinho da Silveira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,High,0,257,63
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,1,Very Low,Very Low,High,0,40,275
+Mousinho da Silveira,Male,18,Urban,Close to Home,Less than 2 hours,0,Very High,Very High,Very Low,8,484,400
+Mousinho da Silveira,Male,18,Rural,Other,Less than 2 hours,0,Very Low,Very Low,Very Low,5,485,189
+Mousinho da Silveira,Male,17,Rural,Other,Less than 2 hours,0,Normal,High,High,4,134,401
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Low,4,466,293
+Mousinho da Silveira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,High,Normal,0,486,290
+Mousinho da Silveira,Female,18,Rural,School Reputation,2 to 5 hours,0,Very Low,Very Low,Very High,0,487,315
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,1,Very Low,Low,Low,2,385,402
+Mousinho da Silveira,Female,19,Urban,Other,Less than 2 hours,1,Low,Normal,Low,0,488,403
+Mousinho da Silveira,Female,17,Urban,Course Preference,More than 10 hours,0,Normal,Very Low,Very High,0,489,260
+Mousinho da Silveira,Female,17,Rural,School Reputation,2 to 5 hours,0,Very Low,Low,Low,5,490,107
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,2,491,230
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,High,0,492,404
+Mousinho da Silveira,Female,19,Rural,Course Preference,2 to 5 hours,3,Very Low,High,Very Low,0,493,405
+Mousinho da Silveira,Female,18,Rural,Close to Home,5 to 10 hours,0,Very Low,Very Low,High,5,191,406
+Mousinho da Silveira,Male,17,Rural,Close to Home,2 to 5 hours,1,Very Low,Normal,Low,4,87,228
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,0,295,229
+Mousinho da Silveira,Female,17,Rural,Other,2 to 5 hours,0,Very Low,Low,Very High,2,285,13
+Mousinho da Silveira,Female,17,Urban,School Reputation,2 to 5 hours,0,Very Low,Low,Very High,0,296,230
+Mousinho da Silveira,Male,18,Urban,Close to Home,Less than 2 hours,0,Very Low,Low,Normal,2,297,231
+Mousinho da Silveira,Female,18,Urban,Course Preference,5 to 10 hours,0,Very Low,Very Low,High,0,298,115
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,0,Very Low,High,Very High,0,483,229
+Mousinho da Silveira,Female,18,Urban,Other,2 to 5 hours,0,Very Low,Normal,Normal,6,167,223
+Mousinho da Silveira,Female,17,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,4,300,146
+Mousinho da Silveira,Female,17,Rural,Course Preference,2 to 5 hours,0,Very Low,Low,Normal,0,301,127
+Mousinho da Silveira,Male,18,Rural,Course Preference,2 to 5 hours,0,Low,High,Normal,0,302,233
+Mousinho da Silveira,Male,18,Urban,Other,5 to 10 hours,0,Low,Low,Very High,0,303,103
+Mousinho da Silveira,Female,17,Rural,School Reputation,Less than 2 hours,1,Very Low,Low,Very Low,0,304,406
+Mousinho da Silveira,Female,18,Urban,Course Preference,Less than 2 hours,0,Very Low,Low,High,0,305,260
+Mousinho da Silveira,Female,18,Rural,Other,2 to 5 hours,0,High,Low,Very High,0,306,377
+Mousinho da Silveira,Male,18,Rural,Other,Less than 2 hours,0,Low,Normal,Normal,3,308,328
+Mousinho da Silveira,Female,17,Urban,Close to Home,5 to 10 hours,0,Very Low,Very Low,Normal,8,309,237
+Mousinho da Silveira,Female,17,Rural,Course Preference,Less than 2 hours,0,Very Low,Normal,Very Low,4,310,18
+Mousinho da Silveira,Female,18,Rural,School Reputation,5 to 10 hours,0,Very Low,Very Low,Very Low,0,311,7
+Mousinho da Silveira,Female,18,Rural,Close to Home,5 to 10 hours,0,Very Low,Low,High,4,183,115
+Mousinho da Silveira,Female,19,Rural,Course Preference,2 to 5 hours,1,Very Low,Very Low,Normal,4,494,177
+Mousinho da Silveira,Female,18,Rural,Course Preference,2 to 5 hours,0,Normal,High,Low,1,313,35
+Mousinho da Silveira,Female,18,Urban,Close to Home,2 to 5 hours,0,Very Low,Low,Very Low,1,86,376
+Mousinho da Silveira,Female,17,Rural,School Reputation,2 to 5 hours,0,Low,Normal,Very Low,10,314,407
+Mousinho da Silveira,Male,18,Urban,Close to Home,2 to 5 hours,0,Very Low,High,Low,4,315,408
+Mousinho da Silveira,Male,18,Rural,Other,Less than 2 hours,0,Very Low,Normal,Very High,0,74,242
+Mousinho da Silveira,Male,17,Urban,Close to Home,2 to 5 hours,0,Very Low,Very Low,Normal,4,232,35
+Mousinho da Silveira,Male,19,Rural,Other,Less than 2 hours,1,Very Low,Normal,Very High,0,316,243
+Mousinho da Silveira,Male,18,Rural,Close to Home,Less than 2 hours,1,High,Normal,Normal,0,317,220
+Mousinho da Silveira,Female,18,Rural,Other,5 to 10 hours,0,Very Low,Normal,High,0,318,254
+Mousinho da Silveira,Female,17,Urban,Other,2 to 5 hours,0,Very Low,Very Low,Very Low,0,14,297
+Mousinho da Silveira,Female,18,Rural,School Reputation,Less than 2 hours,0,Low,Low,Very High,4,319,36
+Mousinho da Silveira,Female,19,Rural,Course Preference,5 to 10 hours,1,Very Low,Low,Very High,4,320,244
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very Low,4,321,256
+Mousinho da Silveira,Female,18,Urban,Course Preference,2 to 5 hours,0,Very Low,Very Low,Very High,6,322,171
+Mousinho da Silveira,Male,17,Urban,Course Preference,Less than 2 hours,0,Normal,High,Low,6,324,197
+Mousinho da Silveira,Male,18,Rural,Course Preference,Less than 2 hours,0,Normal,High,Very High,4,78,247
