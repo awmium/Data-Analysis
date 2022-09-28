@@ -1,6 +1,5 @@
 iso_code,continent,location
 AFG,Asia,Afghanistan
-OWID_AFR,,Africa
 ALB,Europe,Albania
 DZA,Africa,Algeria
 AND,Europe,Andorra
@@ -10,7 +9,6 @@ ATG,North America,Antigua and Barbuda
 ARG,South America,Argentina
 ARM,Asia,Armenia
 ABW,North America,Aruba
-OWID_ASI,,Asia
 AUS,Oceania,Australia
 AUT,Europe,Austria
 AZE,Asia,Azerbaijan
@@ -67,8 +65,6 @@ ERI,Africa,Eritrea
 EST,Europe,Estonia
 SWZ,Africa,Eswatini
 ETH,Africa,Ethiopia
-OWID_EUR,,Europe
-OWID_EUN,,European Union
 FRO,Europe,Faeroe Islands
 FLK,South America,Falkland Islands
 FJI,Oceania,Fiji
@@ -91,14 +87,12 @@ GIN,Africa,Guinea
 GNB,Africa,Guinea-Bissau
 GUY,South America,Guyana
 HTI,North America,Haiti
-OWID_HIC,,High income
 HND,North America,Honduras
 HKG,Asia,Hong Kong
 HUN,Europe,Hungary
 ISL,Europe,Iceland
 IND,Asia,India
 IDN,Asia,Indonesia
-OWID_INT,,International
 IRN,Asia,Iran
 IRQ,Asia,Iraq
 IRL,Europe,Ireland
@@ -123,8 +117,6 @@ LBR,Africa,Liberia
 LBY,Africa,Libya
 LIE,Europe,Liechtenstein
 LTU,Europe,Lithuania
-OWID_LIC,,Low income
-OWID_LMC,,Lower middle income
 LUX,Europe,Luxembourg
 MAC,Asia,Macao
 MDG,Africa,Madagascar
@@ -156,13 +148,11 @@ NIC,North America,Nicaragua
 NER,Africa,Niger
 NGA,Africa,Nigeria
 NIU,Oceania,Niue
-OWID_NAM,,North America
 PRK,Asia,North Korea
 MKD,Europe,North Macedonia
 OWID_CYN,Asia,Northern Cyprus
 MNP,Oceania,Northern Mariana Islands
 NOR,Europe,Norway
-OWID_OCE,,Oceania
 OMN,Asia,Oman
 PAK,Asia,Pakistan
 PLW,Oceania,Palau
@@ -200,7 +190,6 @@ SVN,Europe,Slovenia
 SLB,Oceania,Solomon Islands
 SOM,Africa,Somalia
 ZAF,Africa,South Africa
-OWID_SAM,,South America
 KOR,Asia,South Korea
 SSD,Africa,South Sudan
 ESP,Europe,Spain
@@ -230,7 +219,6 @@ ARE,Asia,United Arab Emirates
 GBR,Europe,United Kingdom
 USA,North America,United States
 VIR,North America,United States Virgin Islands
-OWID_UMC,,Upper middle income
 URY,South America,Uruguay
 UZB,Asia,Uzbekistan
 VUT,Oceania,Vanuatu
@@ -239,7 +227,6 @@ VEN,South America,Venezuela
 VNM,Asia,Vietnam
 WLF,Oceania,Wallis and Futuna
 ESH,Africa,Western Sahara
-OWID_WRL,,World
 YEM,Asia,Yemen
 ZMB,Africa,Zambia
 ZWE,Africa,Zimbabwe
